@@ -1,0 +1,2914 @@
+[
+  {
+    "Écoles/Instituts": "Facultés des Lettres et des Sciences Humaines (FLSH)",
+    "Ville": "Casablanca (Ain Chock, Ben M'sick), Mohammedia, El Jadida, Marrakech, Settat, Beni Mellal, Fès (Dhar El Mehraz, Saiss), Meknès, Tétouan, Kénitra, Rabat, Oujda, Agadir, Ait Melloul, Nador, Taroudant, Safi",
+    "Type d'établissement": "Université publique",
+    "Diplôme": "Licence",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat toutes filières. Des conditions spécifiques peuvent s'appliquer pour certaines filières.",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat",
+    "Seuil": "N/A (Accès ouvert basé sur la répartition géographique ; des conditions spécifiques peuvent s'appliquer pour certaines filières)",
+    "Filières d'études possibles": [
+      "Études Islamiques",
+      "Études Arabes",
+      "Études Amazighes",
+      "Études Françaises",
+      "Études Anglaises",
+      "Études Allemandes",
+      "Études Espagnoles",
+      "Études Italiennes",
+      "Études Portugaises",
+      "Études Chinoises",
+      "Sociologie (Arabe)",
+      "Sociologie (Français)",
+      "Philosophie",
+      "Psychologie",
+      "Histoire et Patrimoine",
+      "Géographie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Facultés des Sciences Juridiques, Économiques et Sociales (FSJES)",
+    "Ville": "Casablanca (Ain Chock, Ain Sebaa), Mohammedia, El Jadida, Marrakech, Settat, Fès, Meknès, Tanger, Kénitra, Rabat (Agdal, Souissi), Salé, Oujda, Agadir, Ait Melloul, Nador, Khouribga, Safi, Taza, Errachidia, Larache",
+    "Type d'établissement": "Université publique",
+    "Diplôme": "Licence, Master, Doctorat",
+    "Durée d'études": "3 ans (Licence), +2 ans (Master), +3 ans (Doctorat)",
+    "Conditions d'accès": "Baccalauréat toutes filières.",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat",
+    "Seuil": "N/A (Accès ouvert basé sur la répartition géographique ; des conditions spécifiques peuvent s'appliquer pour certaines filières)",
+    "Filières d'études possibles": [
+      "Droit Public (Arabe)",
+      "Droit Privé (Arabe)",
+      "Droit Privé (Français)",
+      "Sciences Économiques",
+      "Sciences de Gestion"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Facultés des Sciences (FS)",
+    "Ville": "Rabat (Agdal, Salé), Marrakech, Khouribga, Safi, Taza, Errachidia, Larache, Fès (Dhar El Mehraz, Saiss), Meknès, Tétouan, Kénitra, Oujda, Agadir, Ait Melloul",
+    "Type d'établissement": "Université publique",
+    "Diplôme": "Licence",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat scientifique ou technologique + étude de dossier pour les filières de Mathématiques.",
+    "Filières Bacs acceptées": "Baccalauréat scientifique ou technologique (PC, BCG, MIP, etc.)",
+    "Seuil": "N/A (Accès ouvert basé sur la répartition géographique ; étude de dossier pour les filières de Maths)",
+    "Filières d'études possibles": [
+      "Physique et Chimie (PC)",
+      "Biologie, Chimie et Géologie (BCG)",
+      "Informatique Appliquée",
+      "Mathématiques, Informatique, Physique (MIP)",
+      "Sciences Politiques",
+      "Économie et Gestion"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Facultés de Médecine et de Pharmacie (FMP)",
+    "Ville": "Casablanca, Rabat, Fès, Tanger, Marrakech, Oujda, Agadir, Laâyoune, Errachidia, Guelmim, Beni Mellal",
+    "Type d'établissement": "Faculté publique",
+    "Diplôme": "Doctorat (Médecine Générale, Pharmacie)",
+    "Durée d'études": "6 ans (Médecine Générale/Pharmacie), 4 ans (Pharmacie après Bac+2)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales + concours national unifié après pré-sélection basée sur 75% Bac National + 25% Bac Régional. Pour 2024, le seuil de pré-sélection était de 13.00 pour l'examen unifié de médecine/pharmacie/dentisterie. [cite: 100]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT)",
+    "Seuil (2024)": "13.00 (Examen unifié pour Médecine, Pharmacie, Dentisterie) [cite: 100]",
+    "Filières d'études possibles": [
+      "Médecine Générale",
+      "Pharmacie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Facultés de Médecine Dentaire (FMD)",
+    "Ville": "Casablanca, Rabat, Fès",
+    "Type d'établissement": "Faculté publique",
+    "Diplôme": "Doctorat (Médecine Dentaire)",
+    "Durée d'études": "6 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales + concours national unifié après pré-sélection basée sur 75% Bac National + 25% Bac Régional. Pour 2024, le seuil de pré-sélection était de 13.00 pour l'examen unifié de médecine/pharmacie/dentisterie. [cite: 100]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales",
+    "Seuil (2024)": "13.00 (Examen unifié pour Médecine, Pharmacie, Dentisterie) [cite: 100]",
+    "Filières d'études possibles": [
+      "Médecine Dentaire",
+      "Assistantes Dentaires (DUT)",
+      "Prothésistes Dentaires (DUT)",
+      "Technologie de Laboratoire de Prothèse Dentaire (DUT)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Supérieurs des Professions Infirmières et Techniques de Santé (ISPITS)",
+    "Ville": "Plusieurs villes (La répartition géographique s'applique)",
+    "Type d'établissement": "Institut public",
+    "Diplôme": "Diplôme d'État (Infirmier, Technicien de Santé)",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat de l'année en cours ou de l'année précédente + pré-sélection (75% Bac National + 25% Bac Régional) + examen écrit + examen oral. [cite: 103]",
+    "Filières Bacs acceptées": "Sciences Expérimentales, Sciences Mathématiques, Sciences et Technologies, Sciences Économiques et Gestion, Lettres et Sciences Humaines (pour certaines spécialités comme Assistant Social) [cite: 103]",
+    "Seuil": "Non publié ; varie selon le centre et la spécialisation (généralement entre 11 et 15). [cite: 75]",
+    "Filières d'études possibles": [
+      "Infirmier Polyvalent",
+      "Infirmier en Anesthésie-Réanimation",
+      "Infirmier en Santé Mentale",
+      "Infirmier en Soins d'Urgence et Soins Intensifs",
+      "Infirmier en Santé Familiale et Communautaire",
+      "Spécialiste en Maladies Rénales et Dialyse",
+      "Spécialiste en Gériatrie",
+      "Spécialiste en Opérations Chirurgicales",
+      "Infirmier en Soins aux Nouveau-nés et Enfants",
+      "Laboratoire",
+      "Préparateur en Pharmacie",
+      "Diététique et Nutrition",
+      "Santé et Environnement",
+      "Radiologie",
+      "Biotechnologie Biomédicale",
+      "Maintenance des Équipements Biomédicaux",
+      "Statistiques de Santé",
+      "Optométrie",
+      "Installation d'Appareils de Remplacement d'Organes",
+      "Rééducation Physique",
+      "Orthophonie",
+      "Psychomotricité",
+      "Ergothérapie",
+      "Sage-femme",
+      "Assistant Social"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Agadir",
+    "Ville": "Agadir",
+    "Type d'établissement": "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Casablanca",
+    "Ville": "Casablanca",
+    "Type d'établissement": "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Fès",
+    "Ville": "Fès",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Kénitra",
+    "Ville": "Kénitra",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Marrakech",
+    "Ville": "Marrakech",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Meknès",
+    "Ville": "Meknès",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Oujda",
+    "Ville": "Oujda",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Settat",
+    "Ville": "Settat",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Tanger",
+    "Ville": "Tanger",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG El Jadida",
+    "Ville": "El Jadida",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Dakhla",
+    "Ville": "Dakhla",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENCG Beni Mellal",
+    "Ville": "Beni Mellal",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme des Écoles Nationales de Commerce et de Gestion",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Pré-sélection sur étude de dossier (Note du Bac) + Concours écrit (T.A.F.E.M). Pré-sélection basée sur 75% Bac National + 25% Bac Régional. [cite: 7, 54]",
+    "Filières Bacs acceptées": "Sciences Économiques, Sciences de Gestion Comptable, Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel (Commerce, Comptabilité, Logistique) [cite: 54]",
+    "Seuil (2022)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.50",
+      "PC/SVT/AGO": "14.50",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2023)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Seuil (2024)": {
+      "Eco/SGC": "12.00",
+      "Bac Prof": "14.00",
+      "PC/SVT/AGO": "14.00",
+      "S.Maths": "12.00"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Marketing et Action Commerciale",
+      "Audit et Contrôle de Gestion",
+      "Gestion Financière et Comptable",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Agadir",
+    "Ville": "Agadir",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Civil",
+      "Génie Industriel",
+      "Génie Informatique",
+      "Génie Électrique",
+      "Génie des Systèmes Électroniques et Automatiques",
+      "Génie de l'Environnement",
+      "Génie Énergétique et Énergies Renouvelables"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Safi",
+    "Ville": "Safi",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie des Procédés",
+      "Génie Informatique",
+      "Génie Industriel",
+      "Génie des Télécommunications et Réseaux",
+      "Génie Électrique",
+      "Génie Mécanique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Marrakech",
+    "Ville": "Marrakech",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie des Systèmes Électroniques",
+      "Génie Industriel",
+      "Génie Mécanique",
+      "Génie Civil",
+      "Génie des Procédés",
+      "Génie de l'Environnement"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Tanger",
+    "Ville": "Tanger",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie des Systèmes de Télécommunication et Réseaux",
+      "Génie Industriel",
+      "Génie Électrique",
+      "Génie Civil",
+      "Génie Mécanique",
+      "Génie Électronique et Systèmes Embarqués"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Fès",
+    "Ville": "Fès",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Industriel",
+      "Génie Électrique",
+      "Génie Mécanique",
+      "Génie des Procédés",
+      "Génie de l'Environnement"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Kénitra",
+    "Ville": "Kénitra",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Électrique",
+      "Génie Mécatronique",
+      "Génie Civil",
+      "Génie Énergétique",
+      "Ingénierie des Données"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Oujda",
+    "Ville": "Oujda",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Industriel",
+      "Génie Électrique",
+      "Génie Mécanique",
+      "Génie des Procédés"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Al Hoceima",
+    "Ville": "Al Hoceima",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Civil",
+      "Génie de l'Environnement"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Khouribga",
+    "Ville": "Khouribga",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie des Procédés",
+      "Génie Électrique",
+      "Génie Industriel"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA El Jadida",
+    "Ville": "El Jadida",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Industriel",
+      "Génie Civil",
+      "Génie Électrique",
+      "Génie de l'Environnement"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Tétouan",
+    "Ville": "Tétouan",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Civil",
+      "Génie Industriel",
+      "Génie Mécanique",
+      "Génie Électrique",
+      "Génie Énergétique et Énergies Renouvelables"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Berrechid",
+    "Ville": "Berrechid",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Industriel",
+      "Génie Civil",
+      "Ingénierie des Systèmes d'Information et Communication"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSA Beni Mellal",
+    "Ville": "Beni Mellal",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 125]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel [cite: 54]",
+    "Seuil (2022)": {
+      "STE/STM": "16.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "16.00",
+      "PC": "15.00"
+    },
+    "Seuil (2023)": {
+      "STE/STM": "15.00",
+      "SVT": "15.00",
+      "S.Maths": "12.00",
+      "Bac. Pro": "15.00",
+      "PC": "14.50"
+    },
+    "Seuil (2024)": {
+      "STE/STM": "14.40",
+      "SVT": "14.40",
+      "S.Maths": "12.00",
+      "Bac. Pro": "14.40",
+      "PC": "14.40"
+    },
+    "Filières d'études possibles": [
+      "Génie Informatique",
+      "Génie Industriel",
+      "Génie Civil",
+      "Génie Électrique",
+      "Génie Mécanique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSAM Meknès",
+    "Ville": "Meknès",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel industriel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 51, 131]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Physiques et Chimiques (PC), Sciences de la Vie et de la Terre (SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques) [cite: 51]",
+    "Seuil (2022)": {
+      "PC": "16.50",
+      "SVT/Pro": "16.50",
+      "S.Maths": "12.90",
+      "STE/STM": "12.90",
+      "Mission": "14.00"
+    },
+    "Seuil (2023)": {
+      "PC": "16.25",
+      "SVT/Pro": "16.25",
+      "S.Maths": "12.25",
+      "STE/STM": "12.25",
+      "Mission": "14.00"
+    },
+    "Seuil (2024)": {
+      "PC": "16.17",
+      "SVT/Pro": "16.17",
+      "S.Maths": "12.25",
+      "STE/STM": "12.25",
+      "Mission": "14.00"
+    },
+    "Filières d'études possibles": [
+      "Génie Industriel et Productique",
+      "Génie Mécanique",
+      "Génie Civil",
+      "Génie Thermique Industriel et Énergies Renouvelables",
+      "Électromécanique et Systèmes Industriels"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSAM Casablanca",
+    "Ville": "Casablanca",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel industriel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 51, 131]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Physiques et Chimiques (PC), Sciences de la Vie et de la Terre (SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques) [cite: 51]",
+    "Seuil (2022)": {
+      "PC": "16.50",
+      "SVT/Pro": "16.50",
+      "S.Maths": "12.90",
+      "STE/STM": "12.90",
+      "Mission": "14.00"
+    },
+    "Seuil (2023)": {
+      "PC": "16.25",
+      "SVT/Pro": "16.25",
+      "S.Maths": "12.25",
+      "STE/STM": "12.25",
+      "Mission": "14.00"
+    },
+    "Seuil (2024)": {
+      "PC": "16.17",
+      "SVT/Pro": "16.17",
+      "S.Maths": "12.25",
+      "STE/STM": "12.25",
+      "Mission": "14.00"
+    },
+    "Filières d'études possibles": [
+      "Génie Biomédical",
+      "Génie Mécanique",
+      "Énergies Renouvelables",
+      "Matériaux et Qualité",
+      "Ingénierie Mécanique Aéronautique",
+      "Data Science",
+      "Intelligence Artificielle"
+    ]
+  },
+  {
+    "Écoles/Instituts": "ENSAM Rabat",
+    "Ville": "Rabat",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "5 ans (2 ans cycle préparatoire + 3 ans cycle ingénieur)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel industriel. Pré-sélection basée sur 75% Bac National + 25% Bac Régional + examen écrit après pré-sélection. [cite: 51, 131]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Physiques et Chimiques (PC), Sciences de la Vie et de la Terre (SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques) [cite: 51]",
+    "Seuil (2022)": {
+      "PC": "16.50",
+      "SVT/Pro": "16.50",
+      "S.Maths": "12.90",
+      "STE/STM": "12.90",
+      "Mission": "14.00"
+    },
+    "Seuil (2023)": {
+      "PC": "16.25",
+      "SVT/Pro": "16.25",
+      "S.Maths": "12.25",
+      "STE/STM": "12.25",
+      "Mission": "14.00"
+    },
+    "Seuil (2024)": {
+      "PC": "16.17",
+      "SVT/Pro": "16.17",
+      "S.Maths": "12.25",
+      "STE/STM": "12.25",
+      "Mission": "14.00"
+    },
+    "Filières d'études possibles": [
+      "Génie Industriel",
+      "Génie Mécanique",
+      "Génie Électrique",
+      "Génie Civil",
+      "Génie Électromécanique et Systèmes Industriels",
+      "Cybersécurité et Cloud Computing",
+      "Intelligence Artificielle"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Agadir",
+    "Ville": "Agadir",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Techniques de Commercialisation et de Communication",
+      "Technologies Agroalimentaires",
+      "Génie de l'Eau et de l'Environnement",
+      "Construction Durable et Efficacité Énergétique",
+      "Génie Bio-Industriel",
+      "Génie Civil",
+      "Génie Électrique et Informatique Industrielle",
+      "Génie Industriel",
+      "Génie Informatique",
+      "Management et Événementiel Durable du Sport",
+      "Marketing Digital et Commercial",
+      "Systèmes Embarqués Industriels",
+      "Systèmes Informatiques et Décisionnels",
+      "Systèmes Informatiques et Réseaux"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Casablanca",
+    "Ville": "Casablanca",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Qualité, Hygiène et Sécurité et Environnement",
+      "Génie Électrique et Systèmes Automatisés",
+      "Génie Industriel et Maintenance",
+      "Génie Informatique",
+      "Techniques de Management",
+      "Conception et Développement de Logiciel",
+      "Entrepreneuriat Digital et Communication",
+      "Génie Agroalimentaire",
+      "Génie Biomédical",
+      "Génie Électrique et Maintenance",
+      "Génie Électrique - Systèmes Automatisés",
+      "Informatique et Gestion des Entreprises",
+      "Ingénierie des Données",
+      "Marketing Digital et Expérience Utilisateur"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Fès",
+    "Ville": "Fès",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Génie Thermique et Énergie",
+      "Gestion des Ressources Humaines",
+      "Gestion Logistique et Transport",
+      "Ingénierie des Données",
+      "Ingénierie Logicielle",
+      "Systèmes Embarqués",
+      "Techniques de Gestion Commerciale",
+      "Techniques de Management"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Meknès",
+    "Ville": "Meknès",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Développement Web",
+      "Finance, Banque et Assurance",
+      "Génie Civil",
+      "Génie Électrique",
+      "Génie Informatique",
+      "Génie Mécanique",
+      "Génie Thermique et Énergétique",
+      "Intelligence Artificielle et Technologies Émergentes",
+      "Marketing et Commerce",
+      "Publicité et Marketing Digital",
+      "Techniques de Management",
+      "Techniques du Son et de l'Image",
+      "Réseaux et Sécurité Informatique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Oujda",
+    "Ville": "Oujda",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Informatique Décisionnelle et Intelligence Artificielle",
+      "Informatique et Gestion des Entreprises",
+      "Management Logistique et Technologies Numériques",
+      "Marketing et E-Commerce",
+      "Systèmes d'Information et Sciences des Données",
+      "Technologie Automobile",
+      "Web Design et Marketing Digital",
+      "Gestion des Réseaux et Sécurité"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Kénitra",
+    "Ville": "Kénitra",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Finance, Comptabilité et Fiscalité",
+      "Génie Civil et Efficacité Énergétique",
+      "Génie Informatique Embarquée",
+      "Génie Mécanique et Productique",
+      "Génie Industriel et Logistique",
+      "Génie Logiciel",
+      "Ingénierie Informatique et Sciences des Données",
+      "Informatique Industrielle et Robotique",
+      "Infrastructure Digitale et Sécurité",
+      "Systèmes Embarqués pour l'Automobile",
+      "Techniques de Management",
+      "Technologies Agroalimentaires"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Salé",
+    "Ville": "Salé",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Management et Événementiel Durable du Sport",
+      "Marketing Digital et Commercial",
+      "Systèmes Embarqués Industriels",
+      "Systèmes Informatiques et Décisionnels",
+      "Systèmes Informatiques et Réseaux",
+      "Techniques de Management"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Beni Mellal",
+    "Ville": "Beni Mellal",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Agro-industrie",
+      "Génie des Procédés",
+      "Génie Électrique - Énergies Renouvelables et Efficacité Énergétique",
+      "Génie Industriel et Maintenance",
+      "Génie Informatique",
+      "Génie Mécatronique et Automobile",
+      "Ingénierie des Données et Intelligence Artificielle",
+      "Management Logistique et Transport",
+      "Métrologie Industrielle et Contrôle Qualité"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Safi",
+    "Ville": "Safi",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Industrie Navale",
+      "Techniques Instrumentales et Mesure Physico-Chimique",
+      "Bioanalyses et Contrôles",
+      "Biotechnologie Végétale",
+      "Génie de l'Environnement",
+      "Génie des Mines et de l'Environnement",
+      "Génie Thermique et Énergies Renouvelables",
+      "Ingénierie des Données et Intelligence Artificielle",
+      "Ingénierie Logicielle et Réseaux",
+      "Management des Ressources Humaines"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Kelaat Sraghna",
+    "Ville": "Kelaat Sraghna",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Génie Agroalimentaire",
+      "Génie de l'Environnement",
+      "Production Végétale et Animale",
+      "Ingénierie des Données",
+      "Management et Gestion des Entreprises",
+      "Réseaux Cybersécurité et Intelligence Artificielle"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Essaouira",
+    "Ville": "Essaouira",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Informatique Décisionnelle et Science de Données",
+      "Gestion des Organisations et des Destinations Touristiques",
+      "Techniques de Management",
+      "Agrochimie",
+      "Agro-énergie",
+      "Chimie et Techniques d'Analyse",
+      "Génie Biologique et Amélioration de la Production Animale",
+      "Génie Civil"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Guelmim",
+    "Ville": "Guelmim",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Énergies Renouvelables et Efficacité Énergétique",
+      "Génie Électrique",
+      "Génie Informatique",
+      "Ingénierie des Données",
+      "Réseaux Informatiques et Sécurités",
+      "Techniques de Management"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Laâyoune",
+    "Ville": "Laâyoune",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Conception et Développement des Logiciels",
+      "Génie Biologique",
+      "Génie Civil",
+      "Informatique et Gestion des Entreprises",
+      "Management Juridique et Financier",
+      "Médias et Production du Contenu Numérique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Khénifra",
+    "Ville": "Khénifra",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Génie Thermique et Énergies Renouvelables",
+      "Ingénierie des Données et Intelligence Artificielle",
+      "Ingénierie Logicielle et Réseaux",
+      "Management des Ressources Humaines"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Sidi Bennour",
+    "Ville": "Sidi Bennour",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Génie Agroenvironnement",
+      "Génie Équin",
+      "Génie Informatique",
+      "Techniques de Management"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Fqih Ben Saleh",
+    "Ville": "Fqih Ben Saleh",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Conception et Développement des Logiciels",
+      "Conception et Prototypage Industriel",
+      "Électronique et Énergies Renouvelables",
+      "Électronique, Informatique Industrielle et Robotique",
+      "Génie Civil",
+      "Génie Minier",
+      "Géométallurgie et Géotechnique Minière",
+      "Gestion et Technologie de l'Eau",
+      "Industrie Agroalimentaire",
+      "Informatique Décisionnelle et Statistiques"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Nador",
+    "Ville": "Nador",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Génie Industriel 4.0 et Techniques Avancées Maintenance",
+      "Informatique Décisionnelle et Sciences des Données",
+      "Ingénierie Logicielle et Cybersecurity",
+      "Intelligence Artificielle et Ingénierie des Données (IAID)",
+      "Management Logistique et Transport",
+      "Marketing et Gestion des Projets Digitaux Innovants",
+      "Réseaux et Télécommunication (RT)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Ouarzazate",
+    "Ville": "Ouarzazate",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Développeur d'Applications Web & Mobile",
+      "Finance, Banque et Transformation Digitale",
+      "Génie Civil - Construction Durable",
+      "Génie de l'Eau et de l'Environnement"
+    ]
+  },
+  {
+    "Écoles/Instituts": "EST Tétouan",
+    "Ville": "Tétouan",
+    "Type" : "École supérieure de technologie publique",
+    "Diplôme": "Diplôme Universitaire de Technologie (DUT)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques ou sciences expérimentales ou STE/STM ou bac professionnel. Admission sans examen, uniquement sur pré-sélection (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 144]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (PC, SVT), Sciences et Technologies Électriques (STE), Sciences et Technologies Mécaniques (STM), Bac Professionnel (Fabrication Aéronautique, Fabrication Mécanique, Maintenance Industrielle, Dispositifs Électrotechniques et de Communication, Maintenance Informatique et Réseaux, Systèmes Électroniques et Numériques, Maintenance des Véhicules Automobiles, Fabrication de Structures Métalliques, Conception de Bâtiments, Chantiers de Construction, Logistique, Énergies Renouvelables (Énergie Solaire)) [cite: 143]",
+    "Seuil": "Non explicitement listé, mais le PDF mentionne que les seuils sont généralement élevés dans les listes initiales et diminuent significativement dans les listes d'attente. [cite: 144]",
+    "Filières d'études possibles": [
+      "Industrie Navale",
+      "Intelligence Artificielle",
+      "Techniques Instrumentales et Mesure Physico-Chimique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale de l'Architecture (ENA)",
+    "Ville": "Rabat, Fès, Tétouan, Marrakech, Agadir, Oujda",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur d'État en Architecture",
+    "Durée d'études": "6 ans",
+    "Conditions d'accès": "Baccalauréat scientifique, technologique ou économique et de gestion + pré-sélection + examen écrit + examen oral. Âge inférieur à 22 ans. [cite: 164] Pré-sélection basée sur 75% Bac National + 25% Bac Régional[cite: 39].",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Sciences Économiques, Sciences de Gestion Comptable, Sciences et Technologies Électriques, Sciences et Technologies Mécaniques [cite: 39]",
+    "Seuil (2022)": {
+      "Rabat": "15.25",
+      "Tétouan": "14.00",
+      "Fès": "15.03",
+      "Agadir": "14.01",
+      "Oujda": "13.86",
+      "Marrakech": "14.59"
+    },
+    "Seuil (2023)": {
+      "Rabat": "14.36",
+      "Tétouan": "14.45",
+      "Fès": "13.48",
+      "Agadir": "14.23",
+      "Oujda": "13.95",
+      "Marrakech": "14.18"
+    },
+    "Seuil (2024)": {
+      "Rabat": "16.04",
+      "Tétouan": "14.98",
+      "Fès": "15.22",
+      "Agadir": "15.27",
+      "Oujda": "14.61",
+      "Marrakech": "15.20"
+    },
+    "Filières d'études possibles": [
+      "Architecture"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur de l'Information et de la Communication (ISIC)",
+    "Ville": "Rabat",
+    "Type" : "Institut public",
+    "Diplôme": "Licence en Information et Communication",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat toutes filières + pré-sélection + examen écrit + examen oral. Âge entre 17 et 25 ans. Pré-sélection basée sur 50% Bac National + 50% Bac Régional. [cite: 167]",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat",
+    "Seuil": "Non explicitement listé, mais 610 candidats de la section arabe, 651 de la section française et 178 de la section anglaise ont été invités à l'examen écrit en 2024. [cite: 167]",
+    "Filières d'études possibles": [
+      "Journalisme Écrit",
+      "Journalisme Audiovisuel",
+      "Communication Institutionnelle"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur de Commerce et d'Administration des Entreprises (ISCAE Casa)",
+    "Ville": "Casablanca",
+    "Type" : "Institut public",
+    "Diplôme": "Licence Fondamentale en Gestion, Diplôme de l'Institut",
+    "Durée d'études": "3 ans (Licence), 3 ans (Diplôme après Bac+2)",
+    "Conditions d'accès": "Baccalauréat scientifique ou économique et de gestion. Âge inférieur à 21 ans pour la Licence. Pour le Diplôme après Bac+2 : étudiants des classes préparatoires (CNC) ou Bac+2 (DEUG/DUT en Économie/Gestion). Âge inférieur à 24 ans. Sélection + examens écrits + examens oraux. [cite: 146]",
+    "Filières Bacs acceptées": "Baccalauréat Sciences Scientifiques, Économiques, Sciences de Gestion Comptable, Sciences Mathématiques, Sciences Physiques et Chimiques, Sciences de la Vie et de la Terre, Bac Professionnel, Arts, Sciences Humaines (depuis 2024 pour la Licence) [cite: 146]",
+    "Seuil (2022)": {
+      "Eco": "18.06",
+      "S.Maths": "17.62",
+      "Tech": "17.31",
+      "PC": "18.19",
+      "SGC": "18.21",
+      "SVT": "17.01",
+      "Mission (moyenne générale Bac)": "15.03"
+    },
+    "Seuil (2023)": {
+      "Eco et SGC": "17.25",
+      "PC": "18.05",
+      "SVT": "17.25",
+      "S.Maths": "17.25",
+      "Mission (moyenne générale Bac)": "16.25"
+    },
+    "Seuil (2024)": {
+      "Eco et SGC": "17.42",
+      "PC": "18.67",
+      "SVT": "18.23",
+      "S.Maths": "17.97",
+      "Mission (moyenne générale Bac)": "18.82"
+    },
+    "Filières d'études possibles": [
+      "Commerce International",
+      "Finance et Comptabilité",
+      "Marketing et Vente",
+      "Bourse et Marchés Financiers",
+      "Gestion Bancaire"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur International du Tourisme (ISIT Tanger)",
+    "Ville": "Tanger",
+    "Type" : "Institut public",
+    "Diplôme": "Diplôme de l'Institut",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Pré-sélection basée sur la moyenne générale du baccalauréat (>= 14/20). Ouvert à toutes les filières du baccalauréat (depuis 2024). [cite: 146]",
+    "Filières Bacs acceptées": "Baccalauréat Sciences Économiques, Sciences de Gestion Comptable, Sciences Expérimentales, Sciences Mathématiques, Arts, Sciences Humaines, Bac Professionnel [cite: 146]",
+    "Seuil (2023)": {
+      "Management opérationnel de l'hôtellerie et de la restauration (MOHR)": "13.50",
+      "MT-Management Touristique": "15.50"
+    },
+    "Filières d'études possibles": [
+      "Management Opérationnel de l'Hôtellerie et de la Restauration",
+      "Management Touristique",
+      "Administration et Management des Entreprises Touristiques et Hôtelières"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale de l'Agriculture (ENAM Meknès)",
+    "Ville": "Meknès",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur Agronome d'État",
+    "Durée d'études": "5 ans",
+    "Conditions d'accès": "Baccalauréat scientifique ou professionnel agricole + pré-sélection (basée uniquement sur la moyenne du Bac National) + examen écrit. [cite: 156]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (A/B), Sciences Physiques et Chimiques (PC), Sciences de la Vie et de la Terre (SVT), Sciences Agronomiques (Sc Agro), Bac Mission [cite: 46, 48, 50]",
+    "Seuil (2022)": {
+      "S.Maths A": "14.47",
+      "S.Maths B": "14.36",
+      "SVT": "14.92",
+      "PC": "16.51",
+      "Sc Agro": "12.10",
+      "Bac Mission": "15.56"
+    },
+    "Seuil (2023)": {
+      "S.Maths A/B": "14.80",
+      "SVT": "14.80",
+      "PC": "14.80",
+      "Sc Agro": "12.09",
+      "Bac Mission": "14.95"
+    },
+    "Seuil (2024)": {
+      "S.Maths A": "15.61",
+      "S.Maths B": "15.61",
+      "SVT": "15.90",
+      "PC": "16.43",
+      "Sc Agro": "12.02",
+      "Bac Mission": "15.79"
+    },
+    "Filières d'études possibles": [
+      "Économie Rurale",
+      "Vulgarisation Agricole",
+      "Production Animale",
+      "Protection des Plantes",
+      "Production Végétale",
+      "Techniques de Production des Arbres Fruitiers"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Année Préparatoire aux Études Supérieures Agricoles (APESA)",
+    "Ville": "Rabat",
+    "Type" : "École publique (cycle préparatoire)",
+    "Diplôme": "N/A (cycle préparatoire)",
+    "Durée d'études": "1 an",
+    "Conditions d'accès": "Baccalauréat scientifique ou professionnel agricole. Âge inférieur à 23 ans. Pré-sélection (75% Bac National + 25% Bac Régional) + examen écrit + examen oral (depuis 2021). [cite: 62, 156]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Physiques, Sciences de la Vie et de la Terre, Sciences Agronomiques [cite: 61]",
+    "Seuil (2020)": {
+      "Beni Mellal-Khénifra (Sc Agro)": "13.0",
+      "Beni Mellal-Khénifra (Sc. Vie et Terre)": "14.5",
+      "Beni Mellal-Khénifra (Sc. Maths)": "13.5",
+      "Beni Mellal-Khénifra (Sc. Physiques)": "16.0",
+      "Casablanca-Settat (Sc Agro)": "14.0",
+      "Casablanca-Settat (Sc. Vie et Terre)": "15.5",
+      "Casablanca-Settat (Sc. Maths)": "15.5",
+      "Casablanca-Settat (Sc. Physiques)": "16.5",
+      "Drâa-Tafilalet (Sc Agro)": "15.5",
+      "Drâa-Tafilalet (Sc. Vie et Terre)": "15.0",
+      "Drâa-Tafilalet (Sc. Maths)": "15.0",
+      "Drâa-Tafilalet (Sc. Physiques)": "15.0",
+      "Eddakhla-Oued Eddahab (Sc Agro)": "15.0",
+      "Eddakhla-Oued Eddahab (Sc. Vie et Terre)": "13.0",
+      "Eddakhla-Oued Eddahab (Sc. Maths)": "17.0",
+      "Eddakhla-Oued Eddahab (Sc. Physiques)": "15.0",
+      "Fès - Meknès (Sc Agro)": "14.0",
+      "Fès - Meknès (Sc. Vie et Terre)": "12.5",
+      "Fès - Meknès (Sc. Maths)": "15.5",
+      "Fès - Meknès (Sc. Physiques)": "16.0",
+      "Guelmim-Oued Noun (Sc Agro)": "16.5",
+      "Guelmim-Oued Noun (Sc. Vie et Terre)": "15.0",
+      "Guelmim-Oued Noun (Sc. Maths)": "15.5",
+      "Guelmim-Oued Noun (Sc. Physiques)": "15.5",
+      "Laâyoune-Sakia El Hamra (Sc Agro)": "15.5",
+      "Laâyoune-Sakia El Hamra (Sc. Vie et Terre)": "14.0",
+      "Laâyoune-Sakia El Hamra (Sc. Maths)": "15.5",
+      "Laâyoune-Sakia El Hamra (Sc. Physiques)": "15.5",
+      "Marrakech - Safi (Sc Agro)": "13.0",
+      "Marrakech - Safi (Sc. Vie et Terre)": "13.0",
+      "Marrakech - Safi (Sc. Maths)": "15.5",
+      "Marrakech - Safi (Sc. Physiques)": "16.0",
+      "Oriental (Sc Agro)": "14.0",
+      "Oriental (Sc. Vie et Terre)": "14.0",
+      "Oriental (Sc. Maths)": "14.5",
+      "Oriental (Sc. Physiques)": "16.0",
+      "Rabat - Salé - Kénitra (Sc Agro)": "12.5",
+      "Rabat - Salé - Kénitra (Sc. Vie et Terre)": "14.5",
+      "Rabat - Salé - Kénitra (Sc. Maths)": "15.5",
+      "Rabat - Salé - Kénitra (Sc. Physiques)": "16.0",
+      "Sous-Massa (Sc Agro)": "15.0",
+      "Sous-Massa (Sc. Vie et Terre)": "15.0",
+      "Sous-Massa (Sc. Maths)": "14.0",
+      "Sous-Massa (Sc. Physiques)": "16.5",
+      "Tanger-Tétouan-Al Hoceima (Sc Agro)": "13.0",
+      "Tanger-Tétouan-Al Hoceima (Sc. Vie et Terre)": "14.5",
+      "Tanger-Tétouan-Al Hoceima (Sc. Maths)": "16.5",
+      "Tanger-Tétouan-Al Hoceima (Sc. Physiques)": "16.5"
+    },
+    "Filières d'études possibles": [
+      "Médecine Vétérinaire",
+      "Topographie",
+      "Agriculture",
+      "Industrie Agroalimentaire"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Royal des Techniciens Spécialisés des Eaux et Forêts (IRTSEF Salé)",
+    "Ville": "Salé",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Admission par pré-sélection basée sur la moyenne générale du baccalauréat. [cite: 54]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais généralement des baccalauréats scientifiques/techniques.",
+    "Seuil (2019)": "16.42",
+    "Filières d'études possibles": [
+      "Eaux et Forêts"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur des Sciences de la Santé (ISSS Settat)",
+    "Ville": "Settat",
+    "Type" : "Institut public",
+    "Diplôme": "Licence Professionnelle",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat scientifique ou technologique ou professionnel (scientifique/agricole). Pré-sélection (75% Bac National + 25% Bac Régional) + examen après pré-sélection. [cite: 108, 105]",
+    "Filières Bacs acceptées": "Sciences Infirmières, Sage Femme, Laboratoire Biomédical, T. Radiophysique, Radiobiologie et Radioprotection, T Instrument et Maintenance Biomédicale, Santé Communautaire Infirmier En Santé De Famille Et Environnement (TSENV), Technologue de Santé. [cite: 66, 107]",
+    "Seuil (2019)": {
+      "Sciences Infirmières": "14.75",
+      "Sage Femme": "12.00",
+      "Laboratoire Biomédical": "15.00"
+    },
+    "Seuil (2021)": {
+      "TRRR": "13.00",
+      "TIMB": "13.00",
+      "TLB": "16.00",
+      "SI": "14.75",
+      "SF": "13.00"
+    },
+    "Filières d'études possibles": [
+      "Sciences Infirmières",
+      "Sage-femme",
+      "Laboratoire Biomédical",
+      "Radiophysique, Radiobiologie et Radioprotection (TRRR)",
+      "Instrumentation et Maintenance Biomédicale (TIMB)",
+      "Santé Communautaire (TSENV)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale Supérieure des Arts et du Design (ENSAD Casa)",
+    "Ville": "Casablanca",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme en Métiers des Arts et du Design",
+    "Durée d'études": "2 ans (4 semestres)",
+    "Conditions d'accès": "Baccalauréat scientifique, littéraire, artistique ou technique. Admission sans examen, uniquement sur pré-sélection basée sur la moyenne pondérée (75% Bac National + 25% Bac Régional) X coefficient de pondération. [cite: 111, 113]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Appliquées, Sciences Économiques, Arts, Sciences Humaines, Sciences Technologiques, Sciences Physiques, Sciences de la Vie et de la Terre [cite: 113]",
+    "Seuil": "Calculé sur la base de la moyenne pondérée du baccalauréat (aucun score spécifique n'est listé) [cite: 113]",
+    "Filières d'études possibles": [
+      "Design Graphique et Numérique",
+      "Métiers du Cinéma et de l'Audiovisuel"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale Supérieure de Chimie à Kénitra (ENSCK)",
+    "Ville": "Kénitra",
+    "Type" : "École publique",
+    "Diplôme": "Diplôme d'Ingénieur",
+    "Durée d'études": "5 ans (classes préparatoires intégrées à l'école)",
+    "Conditions d'accès": "Baccalauréat scientifique (Maths, PC, SVT) ou Bac Mission + pré-sélection (75% Bac National + 25% Bac Régional) + examen écrit (depuis 2023). [cite: 57, 164]",
+    "Filières Bacs acceptées": "Sciences Mathématiques A/B, Physique Chimie (PC), Sciences de la Vie et de la Terre (SVT), Bac Mission [cite: 57, 164]",
+    "Seuil (2023)": {
+      "S.Maths": "14.50",
+      "PC": "16.00",
+      "SVT": "16.50",
+      "Bac Mission": "13.00"
+    },
+    "Seuil (2024)": {
+      "S.Maths": "14.00",
+      "PC": "16.00",
+      "SVT": "17.00",
+      "Bac Mission": "14.00"
+    },
+    "Filières d'études possibles": [
+      "Chimie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts des Techniciens Spécialisés en Génie Rural et Topographie (ITGRT Meknès)",
+    "Ville": "Meknès",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Non explicitement détaillé pour les années récentes, mais les années passées (2017, 2019) montrent une pré-sélection basée sur les filières du baccalauréat. [cite: 57]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Physiques, SVT, Tech, Sciences Agronomiques [cite: 57]",
+    "Seuil (2017)": {
+      "Branche Gestion et Maîtrise de l'eau (S.Maths-SP-SVT-Tech)": "13.04",
+      "Branche Gestion et Maîtrise de l'eau (S.Agr)": "10",
+      "Branche Topographie (S.Maths-SP-SVT-Tech)": "14.52",
+      "Branche Topographie (S.Agr)": "10"
+    },
+    "Seuil (2019)": {
+      "Branche Gestion et Maîtrise de l'eau (S.Maths-SP-SVT-Tech)": "13.50",
+      "Branche Gestion et Maîtrise de l'eau (S.Agr)": "10",
+      "Branche Topographie (S.Maths-SP-SVT-Tech)": "15.20",
+      "Branche Topographie (S.Agr)": "10"
+    },
+    "Filières d'études possibles": [
+      "Gestion et Maîtrise de l'Eau",
+      "Topographie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut des Mines de Marrakech (IMM Marrakech)",
+    "Ville": "Marrakech",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Admission par pré-sélection uniquement, sans examen. [cite: 57]",
+    "Filières Bacs acceptées": "Sciences et Technologies, Sciences Expérimentales (SVT, PC, S.Agr), Sciences Mathématiques [cite: 57]",
+    "Seuil (2013)": {
+      "Sciences et Technologies": "14.15",
+      "Sciences Expérimentales": "13.00",
+      "Sciences Mathématiques": "15.86"
+    },
+    "Filières d'études possibles": [
+      "Géologie Appliquée",
+      "Mines et Carrières",
+      "Chimie Industrielle",
+      "Électromécanique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Spécialisés des Travaux Publics (ISTP Marrakech)",
+    "Ville": "Marrakech",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Admission par pré-sélection uniquement, sans examen (depuis 2020-2024). [cite: 167]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais généralement des baccalauréats scientifiques/techniques. [cite: 167]",
+    "Seuil (2018)": "15.12",
+    "Seuil (2019)": "15.75",
+    "Filières d'études possibles": [
+      "Génie Civil (Bâtiment, Routes)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Spécialisés des Travaux Publics (ISTP Fès)",
+    "Ville": "Fès",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Admission par pré-sélection uniquement, sans examen (depuis 2020-2024). [cite: 167]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais généralement des baccalauréats scientifiques/techniques. [cite: 167]",
+    "Seuil (2018)": "14.36",
+    "Seuil (2019)": "14.96",
+    "Filières d'études possibles": [
+      "Génie Civil (Bâtiment, Routes)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Spécialisés des Travaux Publics (ISTP Agadir)",
+    "Ville": "Agadir",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Admission par pré-sélection uniquement, sans examen (depuis 2020-2024). [cite: 167]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais généralement des baccalauréats scientifiques/techniques. [cite: 167]",
+    "Seuil (2018)": "14.42",
+    "Seuil (2019)": "15.03",
+    "Filières d'études possibles": [
+      "Génie Civil (Bâtiment, Routes)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Spécialisés des Travaux Publics (ISTP Oujda)",
+    "Ville": "Oujda",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Admission par pré-sélection uniquement, sans examen (depuis 2020-2024). [cite: 167]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais généralement des baccalauréats scientifiques/techniques. [cite: 167]",
+    "Seuil (2018)": {
+      "Logistique": "13.03",
+      "Civil": "14.12"
+    },
+    "Seuil (2019)": {
+      "Logistique": "14.01",
+      "Civil": "14.87"
+    },
+    "Filières d'études possibles": [
+      "Logistique",
+      "Génie Civil"
+    ]
+  },
+  {
+    "Écoles/Instituts": "CPGE (Classes Préparatoires aux Grandes Écoles)",
+    "Ville": "Plusieurs villes (Répartition géographique basée sur le lieu d'obtention du baccalauréat) [cite: 243]",
+    "Type d'établissement": "Classes Préparatoires publiques",
+    "Diplôme": "N/A (Cycle préparatoire pour les Écoles d'Ingénieurs)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Actuellement inscrit en année terminale du baccalauréat au Maroc. Âge inférieur à 21 ans au 31 décembre de l'année de candidature. Pré-sélection basée sur la moyenne du baccalauréat (National et Régional) et éventuellement pondérée par section. [cite: 240, 243]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales (Physique, Chimie, Sciences de la Vie et de la Terre, Agronomie), Sciences et Technologies (Électrique, Mécanique), Sciences Économiques, Sciences de Gestion Comptable [cite: 242]",
+    "Seuil": "Calculé sur la base d'une formule impliquant le Bac National, le Bac Régional et les notes du conseil de classe (détails sur tawjihnet.net/vb/threads/7756). Non explicitement listé comme valeurs fixes en raison des variations annuelles. [cite: 243]",
+    "Filières d'études possibles": [
+      "Mathématiques, Physique et Sciences de l'Ingénieur (MPSI)",
+      "Physique, Chimie et Sciences de l'Ingénieur (PCSI)",
+      "Technologie et Sciences Industrielles (TSI)",
+      "Économie et Commerce : Option Technologique (ECT)",
+      "Économie et Commerce : Option Scientifique (ECS)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Licences d'Éducation (CLE)",
+    "Ville": "Casablanca, Rabat, Fès, Meknès, Tétouan, Marrakech (ENS) ; Kénitra, Agadir, Beni Mellal, Berrechid, El Jadida, Oujda (ESEF) ; Rabat (FSE) ; Mohammedia (ENSET)",
+    "Type" : "Écoles Supérieures des Enseignants (ENS/ESEF) et Facultés (FSE/ENSET)",
+    "Diplôme": "Licence d'Éducation",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat de l'année en cours ou de l'année précédente. Pré-sélection basée sur 75% Bac National + 25% Bac Régional, pondérée par la filière du baccalauréat. Entretien oral axé sur la communication, les compétences linguistiques (Arabe/Français), l'analyse et la motivation pour l'enseignement. [cite: 180]",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat pour l'Enseignement Primaire. Filières spécifiques pour l'Enseignement Secondaire (Mathématiques, Français, Arabe, SVT, Philosophie, Éducation Islamique, Histoire/Géographie, Anglais, Informatique, Éducation Physique/Sportive). [cite: 180]",
+    "Seuil": "Non publié ; varie selon l'établissement et la spécialisation (déterminé par des coefficients de pondération). [cite: 74, 180]",
+    "Filières d'études possibles": [
+      "Enseignement Primaire",
+      "Enseignement Secondaire : Mathématiques",
+      "Enseignement Secondaire : Français",
+      "Enseignement Secondaire : Arabe",
+      "Enseignement Secondaire : Sciences de la Vie et de la Terre",
+      "Enseignement Secondaire : Philosophie",
+      "Enseignement Secondaire : Éducation Islamique",
+      "Enseignement Secondaire : Histoire et Géographie",
+      "Enseignement Secondaire : Anglais",
+      "Enseignement Secondaire : Informatique",
+      "Enseignement Secondaire : Éducation Physique et Sportive"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Académie Royale Militaire (ARM Meknès)",
+    "Ville": "Meknès",
+    "Type" : "Institution Militaire",
+    "Diplôme": "Officier (après 4 ans)",
+    "Durée d'études": "4 ans",
+    "Conditions d'accès": "Nationalité marocaine, célibataire, âge entre 18 et 22 ans (baccalauréat de l'année en cours). Taille minimale de 1.70m pour les hommes et 1.60m pour les femmes. Pré-sélection basée sur la moyenne générale du baccalauréat + tests physiques + examens médicaux + tests psychotechniques + entretien oral. Candidature en ligne. [cite: 183]",
+    "Filières Bacs acceptées": "Sciences et Technologies, Sciences Juridiques (Français), Langue et Littérature Anglaise [cite: 183]",
+    "Seuil": "Pré-sélection basée sur la moyenne générale du baccalauréat (non publiée). [cite: 81]",
+    "Filières d'études possibles": [
+      "Sciences et Techniques Militaires",
+      "Sciences Juridiques",
+      "Langue et Littérature Anglaise"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Royale de l'Air (ERA Marrakech)",
+    "Ville": "Marrakech",
+    "Type" : "Institution Militaire",
+    "Diplôme": "Ingénieur d'État (après 3 ans de cycle ingénieur), Licence (après 4 ans)",
+    "Durée d'études": "2 ans (cycle préparatoire) + 3 ans (cycle ingénieur) OU 4 ans (Licence)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques (pour le cycle ingénieur, après CPGE) ou PC (pour la Licence en Aviation). Âge entre 18 et 20 ans pour le cycle ingénieur, 18 et 23 pour la Licence. Taille minimale de 1.65m pour les hommes et 1.60m pour les femmes. Pré-sélection + tests physiques + examens médicaux + tests psychotechniques + entretien oral. [cite: 183]",
+    "Filières Bacs acceptées": "Sciences Mathématiques (pour Ingénieur), PC (pour Licence Contrôleur Aérien) [cite: 183]",
+    "Seuil": "Pré-sélection basée sur la moyenne générale du baccalauréat (non publiée). [cite: 81]",
+    "Filières d'études possibles": [
+      "Ingénierie Aéronautique",
+      "Contrôle Aérien",
+      "Pilotage (pour le cycle Ingénieur)",
+      "Hôtesse de l'Air (Convoyeuse de l'Air - pour les femmes)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Royale Navale (ERN Casablanca)",
+    "Ville": "Casablanca",
+    "Type" : "Institution Militaire",
+    "Diplôme": "Ingénieur d'État (après 3 ans de cycle ingénieur), Licence (après 4 ans)",
+    "Durée d'études": "2 ans (cycle préparatoire) + 3 ans (cycle ingénieur) OU 4 ans (Licence)",
+    "Conditions d'accès": "Baccalauréat sciences mathématiques (pour le cycle ingénieur, après CPGE). Âge entre 18 et 22 ans. Taille minimale de 1.65m pour les hommes et 1.60m pour les femmes. Pré-sélection + tests physiques + examens médicaux + tests psychotechniques + entretien oral. [cite: 183]",
+    "Filières Bacs acceptées": "Sciences Mathématiques [cite: 183]",
+    "Seuil": "Pré-sélection basée sur la moyenne générale du baccalauréat (non publiée). [cite: 81]",
+    "Filières d'études possibles": [
+      "Ingénierie Navale (Mécanique Navale, Sciences Navales)",
+      "Officier des Opérations",
+      "Officier Ingénieur Mécanicien",
+      "Énergie et Électronique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Royale du Service de Santé Militaire (ERSSM Rabat)",
+    "Ville": "Rabat",
+    "Type" : "Institution Militaire",
+    "Diplôme": "Doctorat (Médecine, Pharmacie, Dentaire), Doctorat (Vétérinaire)",
+    "Durée d'études": "6 ans (Médecine, Pharmacie, Dentaire), Varie pour Vétérinaire (après IAV Année 3 ou 4)",
+    "Conditions d'accès": "Baccalauréat scientifique ou expérimental. Âge entre 18 et 22 ans. Taille minimale de 1.65m pour les hommes et 1.60m pour les femmes. Pré-sélection + tests physiques + examens médicaux + tests psychotechniques + entretien oral. [cite: 186]",
+    "Filières Bacs acceptées": "Sciences Mathématiques, Sciences Expérimentales [cite: 186]",
+    "Seuil": "Non explicitement listé, les examens ne sont annoncés qu'en cas de besoin de recrutement. [cite: 186]",
+    "Filières d'études possibles": [
+      "Médecine Générale Militaire",
+      "Pharmacie Militaire",
+      "Médecine Dentaire Militaire",
+      "Médecine Vétérinaire Militaire"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Sûreté Nationale (DGSN) - Commissaire de Police",
+    "Ville": "Plusieurs (via Institut de Police)",
+    "Type" : "Institution Publique (Police)",
+    "Diplôme": "Commissaire de Police",
+    "Durée d'études": "2 ans (Commissaire), 1 an (Commissaire Principal)",
+    "Conditions d'accès": "Âge entre 21 et 35 ans. Taille minimale de 1.70m pour les hommes et 1.67m pour les femmes. Bonne vision et audition. Baccalauréat + Licence en Droit ou équivalent (Sciences Politiques, Économie et Gestion, Journalisme). Examens écrits + tests oraux et physiques + examens médicaux. [cite: 193]",
+    "Filières Bacs acceptées": "Droit, Sciences Politiques, Économie et Gestion, Journalisme [cite: 193]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Management des Services de Police",
+      "Droit et Procédures Pénales",
+      "Sécurité Publique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Sûreté Nationale (DGSN) - Officier de Police",
+    "Ville": "Plusieurs (via Institut de Police)",
+    "Type" : "Institution Publique (Police)",
+    "Diplôme": "Officier de Police",
+    "Durée d'études": "1 an",
+    "Conditions d'accès": "Âge entre 21 et 30 ans. Taille minimale de 1.70m pour les hommes et 1.67m pour les femmes. Bonne vision et audition. DEUG ou DUT ou équivalent. Examens écrits + tests oraux et physiques + examens médicaux. [cite: 193]",
+    "Filières Bacs acceptées": "Non explicitement listé, mais DEUG/DUT sont requis. [cite: 193]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Techniques d'Enquête",
+      "Maintien de l'Ordre Public",
+      "Gestion d'Incidents"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Sûreté Nationale (DGSN) - Officier de la Paix",
+    "Ville": "Plusieurs (via Institut de Police)",
+    "Type" : "Institution Publique (Police)",
+    "Diplôme": "Officier de la Paix",
+    "Durée d'études": "1 an",
+    "Conditions d'accès": "Âge entre 21 et 30 ans. Taille minimale de 1.73m pour les hommes et 1.67m pour les femmes. Bonne vision et audition. DEUG ou DUT ou équivalent. Examens écrits + tests oraux et physiques + examens médicaux. [cite: 193]",
+    "Filières Bacs acceptées": "Non explicitement listé, mais DEUG/DUT sont requis. [cite: 193]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Sécurité de Proximité",
+      "Intervention Rapide",
+      "Prévention de la Criminalité"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Sûreté Nationale (DGSN) - Inspecteur de Police",
+    "Ville": "Plusieurs (via Institut de Police)",
+    "Type" : "Institution Publique (Police)",
+    "Diplôme": "Inspecteur de Police",
+    "Durée d'études": "1 an",
+    "Conditions d'accès": "Âge entre 21 et 30 ans. Taille minimale de 1.70m pour les hommes et 1.67m pour les femmes. Bonne vision et audition. Réussite aux deux premiers semestres d'études universitaires. Examens écrits + tests oraux et physiques + examens médicaux. [cite: 193]",
+    "Filières Bacs acceptées": "Non explicitement listé, mais des études universitaires sont requises. [cite: 193]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Inspection et Contrôle",
+      "Administration Policière",
+      "Gestion des Ressources Humaines"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Sûreté Nationale (DGSN) - Gardien de la Paix",
+    "Ville": "Plusieurs (via Institut de Police)",
+    "Type" : "Institution Publique (Police)",
+    "Diplôme": "Gardien de la Paix",
+    "Durée d'études": "1 an",
+    "Conditions d'accès": "Âge entre 21 et 30 ans. Taille minimale de 1.73m pour les hommes et 1.67m pour les femmes. Bonne vision et audition. Baccalauréat ou équivalent. Examens écrits + tests oraux et physiques + examens médicaux. [cite: 193]",
+    "Filières Bacs acceptées": "Baccalauréat [cite: 193]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Surveillance et Patrouille",
+      "Premiers Secours",
+      "Communication Citoyenne"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Gendarmerie Royale - Élèves Gendarmes",
+    "Ville": "Plusieurs",
+    "Type" : "Institution Militaire (Gendarmerie)",
+    "Diplôme": "N/A (Gendarme)",
+    "Durée d'études": "Varie selon le grade/spécialisation",
+    "Conditions d'accès": "Nationalité marocaine, célibataire, âge entre 18 et 24 ans (pour les Gendarmes). Baccalauréat de l'année en cours ou de l'année précédente. Taille minimale de 1.70m pour les hommes et 1.68m pour les femmes. Bonne condition physique, pas de casier judiciaire. Pré-sélection basée sur des tests physiques, médicaux et psychologiques (depuis 2020, pas d'examen écrit). Candidature en ligne. [cite: 198]",
+    "Filières Bacs acceptées": "Baccalauréat [cite: 198]",
+    "Seuil": "Pré-sélection basée sur l'évaluation physique, médicale et psychologique (non publiée). [cite: 198]",
+    "Filières d'études possibles": [
+      "Sécurité Routière",
+      "Police Judiciaire",
+      "Maintien de l'Ordre",
+      "Investigations"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Administration des Douanes et Impôts Indirects (Douanes)",
+    "Ville": "Plusieurs",
+    "Type" : "Institution Publique (Douanes)",
+    "Diplôme": "Assistant Administratif (divers grades)",
+    "Durée d'études": "La période de formation varie",
+    "Conditions d'accès": "Âge entre 18 et 25 ans (peut être prolongé à 30 ans avec un service antérieur). Baccalauréat (le type varie annuellement selon les besoins, pour 2024 : scientifique, économique, professionnel dans certaines spécialisations). Aptitude physique et psychologique. Examens écrits + examen oral. [cite: 201, 202]",
+    "Filières Bacs acceptées": "Sciences de la Vie et de la Terre, Sciences Mathématiques, Sciences Agronomiques, Sciences et Technologies Mécaniques, Sciences et Technologies Électriques, Sciences Économiques, Gestion Comptable, Bac Professionnel dans diverses filières (pour 2024) [cite: 203, 205]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Contrôle Douanier",
+      "Fiscalité Indirecte",
+      "Logistique Douanière",
+      "Lutte contre la Contrebande"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Délégation Générale à l'Administration Pénitentiaire et à la Réinsertion (DGAPR) - Contrôleur Éducateur",
+    "Ville": "Plusieurs",
+    "Type" : "Institution Publique (Administration Pénitentiaire)",
+    "Diplôme": "Contrôleur Éducateur",
+    "Durée d'études": "La période de formation varie",
+    "Conditions d'accès": "Nationalité marocaine, âge entre 21 et 30 ans (peut être prolongé avec un service antérieur, max 35 ans). Baccalauréat ou Diplôme de Qualification Professionnelle. Bonne condition physique. Examen écrit + test sportif + examen oral/pratique. [cite: 208]",
+    "Filières Bacs acceptées": "Baccalauréat, Diplôme de Qualification Professionnelle [cite: 208]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Surveillance Pénitentiaire",
+      "Réinsertion Sociale",
+      "Éducation des Détenus"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Délégation Générale à l'Administration Pénitentiaire et à la Réinsertion (DGAPR) - Officier Éducateur / Officier Éducateur Principal",
+    "Ville": "Plusieurs",
+    "Type" : "Institution Publique (Administration Pénitentiaire)",
+    "Diplôme": "Officier Éducateur / Officier Éducateur Principal",
+    "Durée d'études": "La période de formation varie",
+    "Conditions d'accès": "Nationalité marocaine, âge entre 21 et 30 ans (peut être prolongé avec un service antérieur, max 35 ans). Taille minimale de 1.75m pour les hommes et 1.65m pour les femmes. Bonne vision. Diplôme de Technicien Spécialisé ou Technicien dans les spécialités spécifiées. Examen écrit + test sportif + examen oral/pratique. [cite: 208]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais des Diplômes de Technicien Spécialisé ou Technicien sont requis. [cite: 208]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Gestion des Établissements Pénitentiaires",
+      "Programmes de Réinsertion",
+      "Sécurité Pénitentiaire"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Royal de l'Administration Territoriale (IRAT Rabat)",
+    "Ville": "Rabat",
+    "Type" : "Institut public",
+    "Diplôme": "Diplôme du cycle normal (Administrateur Territorial)",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Âge jusqu'à 35 ans. Diplôme donnant accès au moins à l'échelle salariale 10. Pour les fonctionnaires, âge jusqu'à 35 ans, échelle 10 ou équivalent. Examens écrits + test psychotechnique + entretien oral. [cite: 208]",
+    "Filières Bacs acceptées": "Non explicitement détaillé, mais des diplômes universitaires sont implicites pour l'accès à l'échelle 10. [cite: 208]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Administration Territoriale",
+      "Gouvernance Locale",
+      "Développement Local",
+      "Gestion Publique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Protection Civile (Protection Civile) - Sergent",
+    "Ville": "Plusieurs",
+    "Type" : "Institution Publique (Protection Civile)",
+    "Diplôme": "Sergent",
+    "Durée d'études": "La période de formation varie",
+    "Conditions d'accès": "Nationalité marocaine, homme, âge entre 20 et 26 ans. Taille minimale de 1.67m. Bonne vision (10/15 min sans lunettes). Baccalauréat. Aptitude physique, permis de conduire B ou C. Examen médical + test sportif + test psychotechnique + examen écrit. [cite: 212, 213, 214]",
+    "Filières Bacs acceptées": "Baccalauréat [cite: 213]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Lutte contre les Incendies",
+      "Secourisme et Premiers Secours",
+      "Intervention en Cas de Catastrophe",
+      "Prévention des Risques"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Direction Générale de la Protection Civile (Protection Civile) - Lieutenant",
+    "Ville": "Plusieurs",
+    "Type" : "Institution Publique (Protection Civile)",
+    "Diplôme": "Lieutenant",
+    "Durée d'études": "La période de formation varie",
+    "Conditions d'accès": "Nationalité marocaine, homme, âge entre 20 et 26 ans. Taille minimale de 1.67m. Bonne vision (10/15 min sans lunettes). Licence (Économie et Gestion, Physique, Chimie, Études Anglaises, Droit). Aptitude physique. Examen médical + test sportif + test psychotechnique + examen écrit. [cite: 215]",
+    "Filières Bacs acceptées": "Économie et Gestion, Physique, Chimie, Études Anglaises, Droit [cite: 215]",
+    "Seuil": "Non publié.",
+    "Filières d'études possibles": [
+      "Gestion des Opérations de Secours",
+      "Planification d'Urgence",
+      "Management des Crises"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Ministère de l'Intérieur - Forces Auxiliaires (FA) - Sous-Officiers",
+    "Ville": "Ben Slimane",
+    "Type" : "Institution Militaire (Forces Auxiliaires)",
+    "Diplôme": "Sous-Officier",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat de l'année en cours ou de l'année précédente. Homme, âge entre 18 et 24 ans. Pré-sélection basée sur la moyenne du baccalauréat + tests médicaux et sportifs + test psychologique + entretien oral (depuis 2020, pas d'examen écrit). Candidature en ligne. [cite: 196]",
+    "Filières Bacs acceptées": "Baccalauréat [cite: 196]",
+    "Seuil": "Pré-sélection basée sur la moyenne du baccalauréat (non publiée). [cite: 196]",
+    "Filières d'études possibles": [
+      "Maintien de l'Ordre",
+      "Surveillance",
+      "Appui aux Forces de Sécurité"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Brevet de Technicien Supérieur (BTS)",
+    "Ville": "Plusieurs villes (La répartition géographique s'applique)",
+    "Type" : "Public (Centres BTS au sein des Lycées ou ISTA)",
+    "Diplôme": "Brevet de Technicien Supérieur",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat ou équivalent dans un domaine approprié à la spécialisation choisie. Âge inférieur à 23 ans fin septembre de l'année de candidature. Admission uniquement sur pré-sélection, basée sur la moyenne générale du baccalauréat (75% pour les filières techniques/professionnelles, 25% pour les autres filières dans certaines spécialisations ; 50% pour les filières techniques/professionnelles dans d'autres spécialisations). [cite: 280]",
+    "Filières Bacs acceptées": "Varie largement selon la spécialisation. Inclut Sciences et Technologies (Électrique, Mécanique), Sciences Mathématiques, Sciences Physiques, Sciences de la Vie et de la Terre, Sciences Agronomiques, Économiques, Gestion Comptable, Arts Appliqués, Baccalauréats Professionnels dans divers domaines techniques et de gestion. [cite: 280, 283]",
+    "Seuil": "Basé sur la moyenne générale du baccalauréat (non explicitement listé comme valeurs fixes en raison des variations annuelles). [cite: 280]",
+    "Filières d'études possibles": [
+      "Maintenance Automobile",
+      "Arts et Industries Graphiques",
+      "Développement de l'Intelligence Artificielle",
+      "Génie Électrique",
+      "Électronique et Informatique Industrielle",
+      "Développement Web Full Stack",
+      "Systèmes et Réseaux Informatiques",
+      "Développement d'Applications Informatiques",
+      "Audiovisuel",
+      "Gestion Administrative",
+      "Technico-Commercial",
+      "Gestion des Petites et Moyennes Entreprises",
+      "Gestion Touristique",
+      "Gestion Commerciale",
+      "Comptabilité et Gestion",
+      "Banque et Assurance",
+      "Art Culinaire",
+      "Restauration",
+      "Services Hôteliers"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts de Technologie Appliquée (ITA) / Instituts Spécialisés de Technologie Appliquée (ISTA)",
+    "Ville": "Plusieurs villes",
+    "Type" : "Public (sous l'OFPPT)",
+    "Diplôme": "Diplôme de Technicien Spécialisé (pour les titulaires du Bac), Diplôme de Technicien",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat (scientifique, littéraire, économique/gestion) pour Technicien Spécialisé (âge < 30 ans). Niveau 2 Bac (scientifique, littéraire, économique/gestion) pour Technicien. Les filières du Bac acceptées varient selon la spécialisation. Admission par sélection.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique (toutes spécialisations), Baccalauréat Littéraire et Économique/Gestion (pour les spécialisations Commerce, Hôtellerie/Restauration, Habillement, Cinéma)",
+    "Seuil": "N/A (Sélection basée sur dossier)",
+    "Filières d'études possibles": [
+      "Développement Informatique",
+      "Gestion des Entreprises",
+      "Électromécanique des Systèmes Automatisés",
+      "Comptabilité et Finance",
+      "Techniques de Vente et de Commercialisation",
+      "Maintenance Industrielle",
+      "Réseaux Informatiques",
+      "Tourisme et Hôtellerie",
+      "Bâtiment et Travaux Publics"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts de Formation aux Métiers de l'Industrie Automobile (IFMIA)",
+    "Ville": "Casablanca, Kénitra, Tanger",
+    "Type" : "Public",
+    "Diplôme": "Technicien Spécialisé, Niveau Qualification",
+    "Durée d'études": "2 ans (Technicien Spécialisé)",
+    "Conditions d'accès": "Baccalauréat scientifique ou professionnel industriel pour Technicien Spécialisé (âge < 24 ans). Sélection + examen écrit. Pour le niveau Qualification : 3ème année collège ou niveau de spécialisation professionnelle (âge 15-30 ans).",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Professionnel Industriel (Mécanique, Systèmes Automatisés, Maintenance Automobile, Électromécanique)",
+    "Seuil": "N/A (Sélection basée sur dossier et examen écrit)",
+    "Filières d'études possibles": [
+      "Technicien Spécialisé en Génie Mécanique",
+      "Technicien Spécialisé en Systèmes Automatisés",
+      "Technicien Spécialisé Maintenance Automobile",
+      "Technicien Spécialisé en Électromécanique",
+      "Opérateur Qualifié en Stockage",
+      "Opérateur Qualifié en Soudure",
+      "Opérateur Qualifié en Câblage Automobile",
+      "Opérateur Qualifié en Machines Plastiques"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts de Formation aux Métiers des Énergies Renouvelables et de l'Efficacité Énergétique (IFMEREE)",
+    "Ville": "Oujda, Tanger, Ouarzazate",
+    "Type" : "Public",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat scientifique ou professionnel industriel (âge < 24 ans). Pré-sélection + entretien oral.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Professionnel Industriel",
+    "Seuil": "N/A (Sélection basée sur dossier et entretien)",
+    "Filières d'études possibles": [
+      "Efficacité Énergétique dans le Bâtiment (EEB)",
+      "Systèmes Solaires Photovoltaïques (SPV)",
+      "Systèmes Solaires Thermiques (SST)",
+      "Systèmes Éoliens (SEO)",
+      "Exploitation du Biogaz (EB)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut de Formation pour les Métiers du Bâtiment et des Travaux Publics (IFMBTP Fès)",
+    "Ville": "Fès",
+    "Type" : "Public (partenariat PPP)",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat scientifique ou technique dans les spécialisations pertinentes. Sélection + examen écrit + examen oral.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Technique (liées à la construction et aux travaux publics)",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Génie Civil",
+      "Gestion de Chantier",
+      "Topographie",
+      "Dessin de Bâtiment"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur des Pêches Maritimes (ISPM Agadir)",
+    "Ville": "Agadir",
+    "Type" : "Institut public",
+    "Diplôme": "Officier de Pêche, Officier Mécanicien de Pêche, Transformation et Valorisation des Produits de Pêche, Capitaine de Pêche, Officier Mécanicien de Pêche",
+    "Durée d'études": "3 ans (Premier Cycle), 2 ans (Deuxième Cycle)",
+    "Conditions d'accès": "Baccalauréat scientifique ou technologique + pré-sélection + examen écrit.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Technologique",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Officier de Pêche",
+      "Officier Mécanicien de Pêche",
+      "Transformation et Valorisation des Produits de Pêche",
+      "Capitaine de Pêche"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur d'Études Maritimes (ISEM Casa)",
+    "Ville": "Casablanca",
+    "Type" : "Institut public",
+    "Diplôme": "Ingénieur d'État (Mécanique Navale, Sciences Navales)",
+    "Durée d'études": "3 ans (Cycle Ingénieur après Bac+2)",
+    "Conditions d'accès": "Bac+2 (Scientifique ou Technique) ou Licence (Scientifique ou Technique). Âge inférieur à 23 ans. Examen écrit (depuis 2022).",
+    "Filières Bacs acceptées": "N/A (Nécessite Bac+2 ou Licence)",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Mécanique Navale",
+      "Sciences Navales"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts de Technologie des Pêches Maritimes (ITPM)",
+    "Ville": "Al Hoceima, Safi, Larache, Tan-Tan, Laâyoune",
+    "Type" : "Institut public",
+    "Diplôme": "Technicien",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Niveau baccalauréat (scientifique ou technique). Âge inférieur à 30 ans. Pré-sélection + entretien (depuis 2022).",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Technique",
+    "Seuil": "N/A (Sélection basée sur dossier et entretien)",
+    "Filières d'études possibles": [
+      "Capitaine de Pêche",
+      "Mécanicien de 3ème Classe"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Spécialisé dans les Métiers de l'Aéronautique et Logistique Aéroportuaire (ISMALA Nouaceur)",
+    "Ville": "Nouaceur (Casablanca)",
+    "Type" : "Institut public (sous l'OFPPT)",
+    "Diplôme": "Technicien Spécialisé",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat scientifique ou technique. Âge inférieur à 30 ans. Admission via le processus de candidature de l'OFPPT (sélection basée sur dossier).",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Technique",
+    "Seuil": "N/A (Sélection basée sur dossier)",
+    "Filières d'études possibles": [
+      "Maintenance Aéronautique",
+      "Logistique Aéroportuaire",
+      "Électronique Aéronautique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Spécialisés dans les Métiers du Transport Routier et Logistique (ISMTL)",
+    "Ville": "Casablanca, Agadir, Kénitra, Tanger, Taourirt",
+    "Type" : "Institut public (sous l'OFPPT)",
+    "Diplôme": "Technicien Spécialisé, Technicien",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat (scientifique, technique ou professionnel) pour Technicien Spécialisé. Niveau 2 Bac (scientifique, technique ou professionnel) pour Technicien. Sélection basée sur dossier.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Technique, Baccalauréat Professionnel",
+    "Seuil": "N/A (Sélection basée sur dossier)",
+    "Filières d'études possibles": [
+      "Exploitation du Transport et Logistique",
+      "Réparation des Véhicules",
+      "Conducteur de Transport de Marchandises",
+      "Enseignement de la Conduite",
+      "Contrôle Technique Automobile"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut de Formation en Transport et Logistique (IFTL)",
+    "Ville": "Non spécifié (Partenariat public-privé)",
+    "Type" : "Institut public (partenariat PPP)",
+    "Diplôme": "Technicien Spécialisé, Technicien",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat (scientifique, technique ou professionnel) pour Technicien Spécialisé. Niveau 2 Bac (scientifique, technique ou professionnel) pour Technicien. Âge inférieur à 30 ans.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Technique, Baccalauréat Professionnel",
+    "Seuil": "N/A (Sélection basée sur dossier)",
+    "Filières d'études possibles": [
+      "Gestion Logistique",
+      "Transport International",
+      "Chaîne d'Approvisionnement"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Centre de Formation des Métiers du Cinéma Ouarzazate (CFMC)",
+    "Ville": "Ouarzazate",
+    "Type" : "Centre de formation (sous l'OFPPT)",
+    "Diplôme": "Technicien Spécialisé, Technicien",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat pour Technicien Spécialisé. Âge inférieur à 30 ans.",
+    "Filières Bacs acceptées": "Baccalauréat",
+    "Seuil": "N/A (Sélection basée sur dossier)",
+    "Filières d'études possibles": [
+      "Technicien Spécialisé en Décors et Accessoires",
+      "Technicien Spécialisé en Effets Spéciaux",
+      "Technicien Spécialisé en Régie et Gestion de Production",
+      "Technicien de Plateau et Machinerie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut de Formation aux Métiers de la Boulangerie et Pâtisserie (IFMBP Casa)",
+    "Ville": "Casablanca",
+    "Type" : "Institut public (partenariat PPP)",
+    "Diplôme": "Technicien Spécialisé, Technicien",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat (scientifique, économique ou professionnel de services) pour Technicien Spécialisé. Niveau 2 Bac (toutes filières) ou diplôme de qualification professionnelle pour Technicien. Pré-sélection + examen écrit et oral.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Économique, Baccalauréat Professionnel (services)",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Gestion de Boulangerie et Pâtisserie",
+      "Boulangerie et Viennoiserie",
+      "Pâtisserie, Confiserie, Chocolaterie et Glacerie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Royal de Formation des Cadres de la Jeunesse et des Sports (IRFCJS)",
+    "Ville": "Salé (Centre National des Sports), Rabat (Centre de Revitalisation des Femmes, Centre de Formation des Cadres de la Jeunesse)",
+    "Type" : "Institut public",
+    "Diplôme": "Licence Professionnelle",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat (scientifique pour certains, toutes filières pour d'autres selon la spécialisation et pour les athlètes). Tests sportifs + examen écrit + entretien oral.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Toutes les filières du baccalauréat (en particulier pour les athlètes ou les spécialisations spécifiques)",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Entraînement Sportif",
+      "Petite Enfance",
+      "Protection de l'Enfance et Soutien Familial"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut des Sciences du Sport de Settat (ISSS Settat)",
+    "Ville": "Settat",
+    "Type" : "Institut public (sous l'Université Hassan I)",
+    "Diplôme": "Licence Professionnelle",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat scientifique, expérimental, économique/gestion. Sélection + examens écrits et pratiques + entretien oral.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Expérimental, Baccalauréat Économique/Gestion",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Management du Sport",
+      "Entraînement Sportif",
+      "Technologies du Sport"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut des Métiers du Sport Kénitra (IMS Kenitra)",
+    "Ville": "Kénitra",
+    "Type" : "Institut public (sous l'Université Ibn Tofail)",
+    "Diplôme": "Licence Professionnelle",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Varie selon la spécialisation. Sélection + examens écrits et pratiques.",
+    "Filières Bacs acceptées": "Varie selon la spécialisation et le type de baccalauréat.",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Management Sport Loisirs (MSL)",
+      "Entraînement Encadrement Santé (EES)",
+      "Administration des Affaires et Gestion des Organisations Sportives (2AGOS)",
+      "Commercialisation des Produits et des Services Sportifs (CP2S)",
+      "Analyse du Sport et Technologies (AST)",
+      "Métiers du Parasport (MPAR)",
+      "Digital Sport Entrepreneurship (DSE)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut des Sciences du Sport Fès (ISSF Fès)",
+    "Ville": "Fès",
+    "Type" : "Institut public (sous l'Université Moulay Abdellah)",
+    "Diplôme": "Licence Professionnelle",
+    "Durée d'études": "3 ans",
+    "Conditions d'accès": "Baccalauréat scientifique, économique/gestion, ou spécialisation éducation physique. Sélection + examens écrits et pratiques.",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique, Baccalauréat Économique/Gestion, Baccalauréat Éducation Physique",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Éducation Physique et Sciences des Activités Sportives (EPSAS)",
+      "Management du Sport (MS)",
+      "Entraînement Sportif (ES)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Académie des Arts Traditionnels (AAT Casa)",
+    "Ville": "Casablanca",
+    "Type" : "Académie publique",
+    "Diplôme": "N/A (Diplôme en Artisanat Traditionnel)",
+    "Durée d'études": "Varie (par exemple, 12 mois pour la Calligraphie)",
+    "Conditions d'accès": "Baccalauréat technique + Diplôme de Technicien Spécialisé / BTS / DUT / TS (âge < 25 ans). La spécialisation Calligraphie nécessite le Baccalauréat. Pré-sélection + examens.",
+    "Filières Bacs acceptées": "Baccalauréat Technique, Baccalauréat",
+    "Seuil": "N/A (Sélection basée sur les examens et le dossier)",
+    "Filières d'études possibles": [
+      "Art de la Calligraphie",
+      "Métiers de l'Artisanat Traditionnel (divers)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Mohammed VI de Formation des Imams Morchidines et Morchidates",
+    "Ville": "Rabat",
+    "Type" : "Institut public",
+    "Diplôme": "N/A (Formation pour Imams et Morchidates)",
+    "Durée d'études": "Varie (par exemple, 12 mois)",
+    "Conditions d'accès": "Licence d'une université marocaine ou équivalent (âge < 45 ans). Doit être Marocain, Hafiz du Coran (complet pour les Imams, la moitié pour les Morchidates), bonne conduite, aptitude physique. Pré-sélection + entretien.",
+    "Filières Bacs acceptées": "N/A (Nécessite un diplôme de Licence)",
+    "Seuil": "N/A (Sélection basée sur l'entretien)",
+    "Filières d'études possibles": [
+      "Imamat",
+      "Guidance Religieuse",
+      "Études Islamiques"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Dar El Hadith El Hassania (DAA Rabat)",
+    "Ville": "Rabat",
+    "Type" : "Institut public",
+    "Diplôme": "Licence en Sciences Religieuses",
+    "Durée d'études": "4 ans (Cycle de Base), 2 ans (Cycle Avancé)",
+    "Conditions d'accès": "Baccalauréat ou équivalent (moyenne générale >= 12). Pour 2024, la mémorisation complète du Coran est également requise. Examens écrits (Culture Islamique, Arabe, Français, Anglais/Espagnol).",
+    "Filières Bacs acceptées": "Baccalauréat, Baccalauréat de l'Enseignement Secondaire Ancien",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Sciences du Hadith",
+      "Sciences du Coran",
+      "Langue Arabe",
+      "Culture Islamique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Supérieur d'Art Dramatique et d'Animation Culturelle (ISADAC)",
+    "Ville": "Rabat",
+    "Type" : "Institut public",
+    "Diplôme": "Diplôme de l'Institut",
+    "Durée d'études": "4 ans",
+    "Conditions d'accès": "Baccalauréat toutes filières (âge 17-23 ans). Pré-sélection + examen écrit + entretien oral.",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Performance Théâtrale",
+      "Animation Culturelle",
+      "Techniques de Mise en Scène"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut National des Sciences de l'Archéologie et du Patrimoine (INSAP)",
+    "Ville": "Rabat",
+    "Type" : "Institut public",
+    "Diplôme": "Diplôme de l'Institut",
+    "Durée d'études": "4 ans",
+    "Conditions d'accès": "Baccalauréat toutes filières (âge < 25 ans). Examen écrit (une pré-sélection peut s'appliquer).",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat",
+    "Seuil": "N/A (Sélection basée sur les examens)",
+    "Filières d'études possibles": [
+      "Archéologie",
+      "Patrimoine Historique",
+      "Anthropologie",
+      "Muséologie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut National de l'Action Sociale (INAS)",
+    "Ville": "Tanger",
+    "Type" : "Institut public",
+    "Diplôme": "Licence en Travail Social (3 ans), Master (2 ans), Doctorat (3 ans)",
+    "Durée d'études": "3 ans (Licence)",
+    "Conditions d'accès": "Baccalauréat toutes filières (âge < 24 ans). Examen. Pour Master/Doctorat : diplôme de Licence.",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat",
+    "Seuil": "N/A (Sélection basée sur l'examen)",
+    "Filières d'études possibles": [
+      "Service Social",
+      "Animation Sociale",
+      "Éducation Sociale",
+      "Sciences Sociales et de la Santé"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Casa Moda Academy",
+    "Ville": "Casablanca",
+    "Type" : "École publique (partenariat)",
+    "Diplôme": "Licence Professionnelle en Design de Mode, Master Spécialisé",
+    "Durée d'études": "3 ans (Licence), 2 ans (Master)",
+    "Conditions d'accès": "Baccalauréat + examen. Pour Master : diplôme de Licence.",
+    "Filières Bacs acceptées": "Baccalauréat",
+    "Seuil": "N/A (Sélection basée sur l'examen)",
+    "Filières d'études possibles": [
+      "Design de Mode",
+      "Création Textile",
+      "Gestion de Production Textile"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Licences d'Excellence",
+    "Ville": "Rabat, Casablanca, Fès, Marrakech, Tétouan, Agadir (divers établissements)",
+    "Type" : "Universités / Facultés",
+    "Diplôme": "Licence",
+    "Durée d'études": "3 ans (pour les titulaires du Bac), 1 an (pour les titulaires d'un Bac+2)",
+    "Conditions d'accès": "Baccalauréat + étude de dossier + examen/entretien. Âge inférieur à 22 ans pour certains. Pour les titulaires d'un Bac+2 : étude de dossier + entretien.",
+    "Filières Bacs acceptées": "Varie selon la spécialisation. Exemples : Sciences des Matériaux et Énergies Renouvelables, Cybersécurité, Entrepreneuriat et Développement des Business, Langues, Communication et Traduction, Droit des Affaires, Business Administration, Électronique, Informatique et Robotique, Études Politiques et Géostratégiques.",
+    "Seuil": "N/A (Sélection basée sur dossier et examens)",
+    "Filières d'études possibles": [
+      "Sciences des Matériaux et Énergies Renouvelables",
+      "Cybersécurité",
+      "Entrepreneuriat et Développement des Business",
+      "Langues, Communication et Traduction",
+      "Droit des Affaires",
+      "Business Administration",
+      "Électronique, Informatique et Robotique",
+      "Études Politiques et Géostratégiques"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Techniques Agricoles (ITA)",
+    "Ville": "Tiflet, Marrakech, Ain Taoujdate, Taroudant, Khénifra, Errachidia, Taounate, Ben Ahmed, Oued Amlil, Jemaat Shaim, Guelmim, Tétouan, Meknès, Oulad Taima, Fqih Ben Saleh, Zraib (Mechraa Belqasiri), Temara, Larache, Berrechid, Bouknadel (Salé)",
+    "Type" : "Institut public (Agricole)",
+    "Diplôme": "Diplôme de Technicien Agricole",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Année terminale du baccalauréat scientifique. Âge inférieur à 30 ans. Admission par pré-sélection et entretien oral (depuis 2020 via la plateforme en ligne unifiée fpa-concours.agriculture.gov.ma).",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique",
+    "Seuil": "N/A (Sélection basée sur dossier et entretien)",
+    "Filières d'études possibles": [
+      "Cultures Polyvalentes et Élevage",
+      "Horticulture",
+      "Équipements Agricoles",
+      "Agroécologie",
+      "Gestion des Exploitations Agricoles"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Instituts Techniques Spécialisés Agricoles (ITSA)",
+    "Ville": "Temara, Fqih Ben Saleh, Mohammedia, Meknès, Guelmim, Bouknadel (Salé), Zraib (Berrechid), Errachidia, Oulad Taima, Zraib (Oujda), Tétouan, Souihla (Marrakech), Ait Melloul (Agadir)",
+    "Type" : "Institut public (Agricole)",
+    "Diplôme": "Diplôme de Technicien Spécialisé Agricole",
+    "Durée d'études": "2 ans",
+    "Conditions d'accès": "Baccalauréat scientifique. Âge jusqu'à 30 ans. Admission par étude de dossier et entretien. (Depuis 2020 via la plateforme en ligne unifiée fpa-concours.agriculture.gov.ma).",
+    "Filières Bacs acceptées": "Baccalauréat Scientifique",
+    "Seuil": "N/A (Sélection basée sur dossier et entretien)",
+    "Filières d'études possibles": [
+      "Industrie Alimentaire",
+      "Production et Commercialisation Horticoles",
+      "Qualité des Produits Animaux et d'Origine Animale",
+      "Élevage Avicole",
+      "Élevage de Ruminants",
+      "Marketing des Produits Agricoles",
+      "Gestion des Exploitations Agricoles",
+      "Électromécanique Agricole",
+      "Hydraulique Rurale",
+      "Gestion et Maîtrise des Ressources en Eau",
+      "Topographie Agricole"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Mohammedia d'Ingénieurs (EMI)",
+    "Ville": "Rabat",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG ou DEUST (MP/PC/SM/SMP) avec mention, ou Licence dans les filières pertinentes + pré-sélection + examen. Âge inférieur à 22 ans.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2)",
+    "Filières d'études possibles": [
+      "Génie Civil",
+      "Génie Électrique",
+      "Génie Industriel",
+      "Génie Informatique",
+      "Génie Mécanique",
+      "Génie Minéral",
+      "Modélisation et Informatique Scientifique (MIS)",
+      "Génie des Procédés"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Hassania des Travaux Publics (EHTP Casa)",
+    "Ville": "Casablanca",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG ou DEUST (MP/PC/SM/SMP) avec mention + pré-sélection + examen. Âge inférieur à 23 ans.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2)",
+    "Filières d'études possibles": [
+      "Ingénierie du Bâtiment",
+      "Infrastructures de Transport",
+      "Communication et Réseaux",
+      "Génie Informatique",
+      "Météorologie",
+      "Gestion des Systèmes de Transport",
+      "Ingénierie des Systèmes Électriques et Industriels",
+      "Ingénierie Eau Environnement",
+      "Ingénierie Ville Environnement",
+      "Géomatique et Ingénierie Géographique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale Supérieure d'Informatique et d'Analyse des Systèmes (ENSIAS)",
+    "Ville": "Rabat",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG ou DEUST (MP/PC/SM/SMP) avec mention + pré-sélection + examen. Âge inférieur à 22 ans. Catégorie (C) : Diplôme de Licence (scientifique ou ingénierie appliquée) + étude de dossier.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/Licence)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2/Licence)",
+    "Filières d'études possibles": [
+      "Management et Business Intelligence",
+      "Ingénierie de la Logistique",
+      "Génie Logiciel",
+      "Ingénierie des Réseaux et des Télécommunications",
+      "Sécurité des Systèmes d'Information",
+      "Systèmes Embarqués et Mobiles"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut National de Statistique et d'Économie Appliquée (INSEA)",
+    "Ville": "Rabat",
+    "Type" : "Institut public (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG ou CUES (MP) ou équivalent + pré-sélection + examen. Catégorie (C) : Accès à la 2ème année du cycle ingénieur pour les titulaires d'une Licence en Mathématiques ou Économie.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/Licence)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2/Licence)",
+    "Filières d'études possibles": [
+      "Économie Appliquée",
+      "Actuariat - Finance",
+      "Recherche Opérationnelle",
+      "Informatique",
+      "Statistique",
+      "Démographie"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut National des Postes et Télécommunications (INPT)",
+    "Ville": "Rabat",
+    "Type" : "Institut public (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG (MP, PC) ou DEUST + pré-sélection + examen. Catégorie (C) : Accès à la 2ème année du cycle ingénieur pour les titulaires d'une Licence en Mathématiques.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/Licence)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2/Licence)",
+    "Filières d'études possibles": [
+      "Ingénierie des Réseaux Mobiles",
+      "Informatique, Réseaux et Systèmes",
+      "Ingénierie du Multimédia",
+      "Ingénierie des Systèmes Télécom",
+      "Chef de Projet",
+      "Manager des Télécoms d'Entreprise"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale Supérieure d'Électricité et de Mécanique (ENSEM)",
+    "Ville": "Casablanca",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG ou DEUST (Mathématiques-Physique) ou DUT (Génie Mécanique ou Électrique) ou équivalent. Âge inférieur à 23 ans. Pré-sélection + examen.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/DUT)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2/DUT)",
+    "Filières d'études possibles": [
+      "Qualité, Maintenance, Sécurité Industrielle (QMSI)",
+      "Génie des Systèmes Mécaniques (GSM)",
+      "Génie des Systèmes Électriques (GSE)",
+      "Génie Informatique (GI)",
+      "Électronique & Télécommunications (EET)",
+      "Génie des Systèmes Automatiques Industriels (GSAI)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale Supérieure des Mines de Rabat (ENSMR)",
+    "Ville": "Rabat",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Catégorie (A) : Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Catégorie (B) : DEUG ou DEUST (MP, PC) ou équivalent + pré-sélection + examen. Ouvert également aux titulaires d'une Licence (SMP, SMI, SMA, SMC, MIP, MIPC).",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/Licence)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection et l'examen Bac+2/Licence)",
+    "Filières d'études possibles": [
+      "Électromécanique",
+      "Maintenance Industrielle",
+      "Énergies Renouvelables",
+      "Matériaux et Contrôle Qualité",
+      "Ingénierie des Procédés",
+      "Génie Énergétique Renouvelables",
+      "Aménagement, Exploitation et Protection du Sol et Sous-Sol",
+      "Hydrogéotechnique",
+      "Environnement et Sécurité Industriels"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Académie Internationale Mohammed VI de l'Aviation Civile (AIAC)",
+    "Ville": "Nouaceur (Casablanca)",
+    "Type" : "Académie publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE)",
+    "Conditions d'accès": "Réussite au Concours National Commun (CNC) pour les étudiants des CPGE.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE)",
+    "Seuil": "N/A (Admission basée sur le classement CNC)",
+    "Filières d'études possibles": [
+      "Ingénieur en Contrôle de la Navigation Aérienne",
+      "Ingénieur en Électronique de la Sécurité de la Circulation Aérienne",
+      "Génie Électrique",
+      "Électronique & Télécom",
+      "Génie Industriel Productique"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale de l'Intelligence Artificielle et du Digital (ENIAD Berrechid)",
+    "Ville": "Berrechid",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Ouvert également aux titulaires d'un Bac+2 (DEUG, DUT) ou d'une Licence (SMA, SMI, SMP) avec mention.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/Licence)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection Bac+2/Licence)",
+    "Filières d'études possibles": [
+      "Ingénierie Réseaux et Sécurité Informatique (IRSI)",
+      "Intelligence Artificielle (IA)",
+      "Robotique et Objets Connectés (ROC)",
+      "Génie Informatique (GINF)"
+    ]
+  },
+  {
+    "Écoles/Instituts": "École Nationale Supérieure de l'Intelligence Artificielle et Sciences des Données (ENSAISD Taroudant)",
+    "Ville": "Taroudant",
+    "Type" : "École publique (Ingénierie)",
+    "Diplôme": "Diplôme d'Ingénieur d'État",
+    "Durée d'études": "3 ans (après CPGE ou Bac+2)",
+    "Conditions d'accès": "Réussite au Concours National Commun (CNC) pour les étudiants des CPGE. Ouvert également aux titulaires d'un Bac+2 (DEUG, DUT) ou d'une Licence (SMA, SMI, SMP) avec mention. Âge inférieur à 22 ans.",
+    "Filières Bacs acceptées": "N/A (Admission après CPGE ou Bac+2/Licence)",
+    "Seuil": "N/A (Admission basée sur le classement CNC ou la sélection Bac+2/Licence)",
+    "Filières d'études possibles": [
+      "Sciences des Données, Big Data & IA",
+      "Sécurité IT et Confiance Numérique",
+      "Ingénierie Logicielle",
+      "Management et Gouvernance des Systèmes d'Informations"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Institut Royal de Police (IRP)",
+    "Ville": "Plusieurs (via Instituts de Police)",
+    "Type" : "Institut public (Police)",
+    "Diplôme": "Varie selon le grade (Commissaire, Officier, Inspecteur, Gardien de la Paix)",
+    "Durée d'études": "1-2 ans",
+    "Conditions d'accès": "Nationalité marocaine. Âge 21-35 ans (pour Commissaire), 21-30 ans (pour Officier/Inspecteur/Gardien). Taille minimale de 1.70m (homme) / 1.67m (femme) pour la plupart. Bonne vision/audition. Baccalauréat (Gardien), DEUG/DUT (Officier), Licence (Commissaire). Examens écrits + tests oraux/physiques + examens médicaux.",
+    "Filières Bacs acceptées": "Toutes les filières du baccalauréat (Gardien de la Paix), Types de baccalauréat spécifiques (ex: Droit, Économie pour les grades supérieurs).",
+    "Seuil": "Non publié ; basé sur les concours et les critères physiques/médicaux.",
+    "Filières d'études possibles": [
+      "Police scientifique",
+      "Investigation criminelle",
+      "Gestion des ressources humaines policières"
+    ]
+  },
+  {
+    "Écoles/Instituts": "Métiers Judiciaires (Professions Judiciaires)",
+    "Ville": "Plusieurs (dépend de la profession et des tribunaux)",
+    "Type" : "Divers (ex: Institut Supérieur de la Magistrature, pratique privée)",
+    "Diplôme": "Varie (ex: Attaché Judiciaire, Notaire, Adoul, Avocat, Commissaire Judiciaire, Traducteur Assermenté, Expert Judiciaire, Greffier)",
+    "Durée d'études": "Varie considérablement selon la profession (ex: 2+ ans pour Attaché Judiciaire, 3 ans pour stage de Notaire, 4 ans pour Avocats, etc.)",
+    "Conditions d'accès": "Varie considérablement selon la profession. Nécessite généralement une Licence en Droit ou équivalent d'une université marocaine. Des restrictions d'âge s'appliquent (ex: 21-45 ans pour Notaire/Adoul). Les concours, entretiens et/ou périodes de stage sont courants. Pas de casier judiciaire.",
+    "Filières Bacs acceptées": "N/A (Nécessite des diplômes d'enseignement supérieur, généralement Licence en Droit ou domaines connexes).",
+    "Seuil": "Non publié ; les concours et les critères de sélection sont spécifiques à chaque profession.",
+    "Filières d'études possibles": [
+      "Magistrature",
+      "Notariat",
+      "Adoul (notaires traditionnels)",
+      "Avocature",
+      "Commissariat Judiciaire",
+      "Traduction Judiciaire",
+      "Expertise Judiciaire",
+      "Greffe Judiciaire"
+    ]
+  }
+]
