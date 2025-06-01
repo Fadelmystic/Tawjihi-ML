@@ -1,48 +1,72 @@
-# Dataset des Établissements d'Enseignement Supérieur au Maroc
+# Guide Tawjihi Data Analysis
 
-Ce projet présente une base de données structurée des établissements d'enseignement supérieur au Maroc, générée à partir du guide Tawjihi.
+Ce projet vise à analyser et nettoyer les données du guide Tawjihi pour les établissements d'enseignement supérieur au Maroc.
 
-## Description du Projet
+## Structure du Projet
 
-Ce projet a consisté en la transformation des données du guide Tawjihi en une base de données structurée et exploitable. Le processus s'est déroulé en plusieurs étapes :
+```
+.
+├── Tawjihi ML/
+│   ├── TAWJIHI-ML-Analysis.ipynb    # Notebook d'analyse principal
+│   ├── clean_thresholds.py          # Script de nettoyage des seuils
+│   ├── data_expanded.csv           # Données brutes
+│   ├── data_expanded_cleaned.csv   # Données nettoyées (CSV)
+│   ├── data_expanded_cleaned.xlsx  # Données nettoyées (Excel)
+│   └── threshold_analysis.png      # Visualisation des seuils
+└── README.md
+```
 
-1. **Source des Données**
-   - Extraction des informations depuis le fichier PDF du guide Tawjihi
-   - Le guide contient les informations détaillées sur les établissements d'enseignement supérieur au Maroc
+## Fonctionnalités
 
-2. **Processus de Transformation**
-   - Conversion des données du PDF vers un format JSON structuré
-   - Le format JSON permet une meilleure organisation et structuration des données
-   - Les informations sont catégorisées et standardisées
+1. **Nettoyage des Données**
+   - Standardisation des valeurs manquantes
+   - Nettoyage du texte
+   - Traitement des seuils d'admission
+   - Détection des doublons
 
-3. **Formats Finaux**
-   - Génération de fichiers CSV pour une utilisation facile dans différents outils
-   - Création de fichiers Excel (XLSX) pour une visualisation et manipulation aisée
-   - Les données sont organisées de manière claire et accessible
+2. **Analyse des Seuils d'Admission**
+   - Conservation des seuils 2023 et 2024
+   - Remplissage intelligent des valeurs manquantes
+   - Analyse statistique par type d'établissement
+   - Visualisations des distributions
 
-## Structure des Données
+3. **Formats de Sortie**
+   - CSV : Format brut pour l'analyse
+   - Excel : Format enrichi avec statistiques par type d'établissement et par ville
+   - PNG : Visualisations des seuils
 
-Les données sont structurées avec les champs suivants pour chaque établissement :
-- **Écoles/Instituts** : Nom complet de l'établissement
-- **Ville** : Localisation(s) de l'établissement
-- **Type d'établissement** : Catégorie (ex: Université publique)
-- **Diplôme** : Niveaux de diplômes proposés (Licence, Master, Doctorat)
-- **Durée d'études** : Durée pour chaque niveau de diplôme
-- **Conditions d'accès** : Prérequis pour l'admission
-- **Filières Bacs acceptées** : Types de baccalauréats acceptés
-- **Seuil** : Critères de sélection et conditions d'admission
-- **Filières d'études possibles** : Liste des spécialisations disponibles
+## Utilisation
 
-## Utilisation des Données
+1. **Installation des Dépendances**
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
+   ```
 
-Les données générées peuvent être utilisées pour :
-- L'analyse des établissements d'enseignement supérieur au Maroc
-- La recherche et la comparaison des filières disponibles
-- L'aide à la décision pour les futurs étudiants
-- Des études statistiques sur l'enseignement supérieur
+2. **Exécution du Nettoyage**
+   ```bash
+   python clean_thresholds.py
+   ```
 
-## Formats Disponibles
+3. **Analyse Interactive**
+   - Ouvrir `TAWJIHI-ML-Analysis.ipynb` dans Jupyter Notebook
+   - Exécuter les cellules pour l'analyse interactive
 
-- JSON : Pour l'intégration dans des applications
-- CSV : Pour l'analyse de données
-- XLSX : Pour la visualisation et la manipulation manuelle 
+## Résultats
+
+Le script génère trois fichiers principaux :
+1. `data_expanded_cleaned.csv` : Données nettoyées au format CSV
+2. `data_expanded_cleaned.xlsx` : Données enrichies avec statistiques au format Excel
+3. `threshold_analysis.png` : Visualisation des distributions des seuils
+
+## Contribution
+
+Les contributions sont les bienvenues ! N'hésitez pas à :
+1. Fork le projet
+2. Créer une branche pour votre fonctionnalité
+3. Commiter vos changements
+4. Pousser vers la branche
+5. Ouvrir une Pull Request
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
