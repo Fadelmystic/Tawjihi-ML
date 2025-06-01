@@ -1,22 +1,40 @@
-# Guide Tawjihi Data Analysis
+# Dataset des Établissements d'Enseignement Supérieur au Maroc
 
-Ce projet vise à analyser et nettoyer les données du guide Tawjihi pour les établissements d'enseignement supérieur au Maroc.
+Ce projet présente une base de données structurée des établissements d'enseignement supérieur au Maroc, générée à partir du guide Tawjihi.
 
-## Structure du Projet
+## Description du Projet
 
-```
-.
-├── Tawjihi ML/
-│   ├── TAWJIHI-ML-Analysis.ipynb    # Notebook d'analyse principal
-│   ├── clean_thresholds.py          # Script de nettoyage des seuils
-│   ├── data_expanded.csv           # Données brutes
-│   ├── data_expanded_cleaned.csv   # Données nettoyées (CSV)
-│   ├── data_expanded_cleaned.xlsx  # Données nettoyées (Excel)
-│   └── threshold_analysis.png      # Visualisation des seuils
-└── README.md
-```
+Ce projet a consisté en la transformation des données du guide Tawjihi en une base de données structurée et exploitable. Le processus s'est déroulé en plusieurs étapes :
 
-## Fonctionnalités
+1. **Source des Données**
+   - Extraction des informations depuis le fichier PDF du guide Tawjihi
+   - Le guide contient les informations détaillées sur les établissements d'enseignement supérieur au Maroc
+
+2. **Processus de Transformation**
+   - Conversion des données du PDF vers un format JSON structuré
+   - Le format JSON permet une meilleure organisation et structuration des données
+   - Les informations sont catégorisées et standardisées
+
+3. **Formats Finaux**
+   - Génération de fichiers CSV pour une utilisation facile dans différents outils
+   - Les données sont organisées de manière claire et accessible
+
+## Structure des Données
+
+Les données sont structurées avec les champs suivants pour chaque établissement :
+- **Écoles/Instituts** : Nom complet de l'établissement
+- **Ville** : Localisation(s) de l'établissement
+- **Type d'établissement** : Catégorie (ex: Université publique)
+- **Diplôme** : Niveaux de diplômes proposés (Licence, Master, Doctorat)
+- **Durée d'études** : Durée pour chaque niveau de diplôme
+- **Conditions d'accès** : Prérequis pour l'admission
+- **Filières Bacs acceptées** : Types de baccalauréats acceptés
+- **Seuil** : Critères de sélection et conditions d'admission
+- **Filières d'études possibles** : Liste des spécialisations disponibles
+
+## Nettoyage et Analyse des Données
+
+Le notebook `TAWJIHI-ML-Analysis.ipynb` contient le processus complet de nettoyage et d'analyse des données :
 
 1. **Nettoyage des Données**
    - Standardisation des valeurs manquantes
@@ -30,43 +48,32 @@ Ce projet vise à analyser et nettoyer les données du guide Tawjihi pour les é
    - Analyse statistique par type d'établissement
    - Visualisations des distributions
 
-3. **Formats de Sortie**
-   - CSV : Format brut pour l'analyse
-   - Excel : Format enrichi avec statistiques par type d'établissement et par ville
-   - PNG : Visualisations des seuils
+## Utilisation des Données
 
-## Utilisation
+Les données générées peuvent être utilisées pour :
+- L'analyse des établissements d'enseignement supérieur au Maroc
+- La recherche et la comparaison des filières disponibles
+- L'aide à la décision pour les futurs étudiants
+- Des études statistiques sur l'enseignement supérieur
+
+## Fichiers Disponibles
+
+1. **Données Brutes**
+   - `data_expanded.csv` : Données extraites du guide Tawjihi
+
+2. **Données Nettoyées**
+   - `data_expanded_cleaned.csv` : Données nettoyées et prêtes à l'analyse
+
+3. **Analyse**
+   - `TAWJIHI-ML-Analysis.ipynb` : Notebook contenant le code de nettoyage et d'analyse
+
+## Installation et Utilisation
 
 1. **Installation des Dépendances**
    ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
-2. **Exécution du Nettoyage**
-   ```bash
-   python clean_thresholds.py
-   ```
-
-3. **Analyse Interactive**
+2. **Analyse Interactive**
    - Ouvrir `TAWJIHI-ML-Analysis.ipynb` dans Jupyter Notebook
-   - Exécuter les cellules pour l'analyse interactive
-
-## Résultats
-
-Le script génère trois fichiers principaux :
-1. `data_expanded_cleaned.csv` : Données nettoyées au format CSV
-2. `data_expanded_cleaned.xlsx` : Données enrichies avec statistiques au format Excel
-3. `threshold_analysis.png` : Visualisation des distributions des seuils
-
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité
-3. Commiter vos changements
-4. Pousser vers la branche
-5. Ouvrir une Pull Request
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+   - Exécuter les cellules pour le nettoyage et l'analyse 
